@@ -1,5 +1,5 @@
 # 3100malaysia
-this progress is for learning malay word people
+this progress is for learning malaysia lauguage people
 
 3100 Most Common Daily Use English-Malay Words And Their Meaning
 
@@ -47,4 +47,44 @@ a)
 
 20) according  -  menurut
 
-21) --to be continued
+21) account  -  akaun
+
+22) accurate  -  tepat
+
+23) accuse  -  menuduh 
+
+24) achieve  -  capai
+
+25) achievement  -  pencapaian
+
+26) acid  -  asid
+
+27) acknowledge  -  mengakui
+
+28) acquire  -  memperoleh
+
+29) across  -  seberang
+
+30) act  -  bertindak
+
+31) action  -  tindakan
+
+32) active  -  aktif
+
+33) activist  -  aktivis
+
+34) activity  -  activiti
+
+35) actor  -  pelakon
+
+36) actress  -  pelakon
+
+37) actual  -  sebenar
+
+38) actually  -  sebenarnya
+
+39) ad  -  iklah /ads  -  iklanst
+
+40) adapt  -  menyesuaikan
+
+41)
