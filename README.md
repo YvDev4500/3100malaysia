@@ -7,13 +7,13 @@ there are A - Z malay word
 
 a)
 
-1) a  -  satu
+1) a  -  satu  -  （ Yī gè ）
 
-2) abandon  -  tinggalkan
+2) abandon  -  tinggalkan  -  （ Fàng qì，Pāo qì ）
 
-3) ability  -  kebolehan
+3) ability  -  kebolehan  -  （ Néng lì，Cái néng，Běn shì ）
 
-4) able  -  mampu
+4) able  -  mampu  -  （ Néng gòu，
 
 5) abortion  -  pengguguran
 
@@ -87,4 +87,6 @@ a)
 
 40) adapt  -  menyesuaikan
 
-41)
+41) add  -  tambah
+
+42) addition  -  tambahan
