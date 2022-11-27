@@ -317,4 +317,80 @@ a)
 
 155) approve  -  terima  -  批准 ( << terima >> and << terima kase >> is not the same and approve is use in a system that got error )
 
-156) 
+156) approximately  -  lebih kurang  -  大约 ( no use, use << above or about >> )
+
+157) arab  -  arab  -  阿拉伯, 阿拉人
+
+158) architect  -  arkitek  -  建筑师
+
+159) are  -  adalah  -  是
+
+160) area  -  kawasan/area  -  区域, 公域
+
+161) argue  -  berhujah  -  争论 
+
+162) argument  -  hujah  -  争论
+
+163) arise  -  timbul  -  出现 ( if you want to use a difficulty instead of appear word )
+
+164) arm  -  lengan  - 	手臂
+
+165) armed  -  bersenjata  -  武装 ( << arm >> and << armed >> is not the same )
+
+166) army  -  tentara/armi  -  军队, 军人
+
+167) around  -  sekeliling  -  大约, 一圈, 转 ( use it in turn around )
+
+168) arrange  -  mengatur  - 	安排
+
+169) arrangement  -  susunan  -  安排 ( you can use << arrange >> if you don't want to learn another << arrangement >> )
+
+170) arrest  -  penangkapan/arrest  -  逮捕, 抓捕
+
+171) arrival  -  ketibaan  -  到达 ( no use if << arrive >> already exist )
+
+172) arrive  -  tiba  -  到达
+
+173) art  -  seni  -  艺术, 美术
+
+174) article  -  artikel  -  文章 ( use it in student or a book )
+
+175) artist  -  artis  -  艺术家
+
+176) artistic  -  artistik  -  艺术的 ( no use if << artist >> and << art >> exist this word will be use as an amazing word if you want difficulty then use this word )
+
+177) as  -  sebagai  - 	作为
+
+178) asian  -  orang asia/asia  -  	亚洲人, 中国人, 华人
+
+179) aside  -  ketepikan  -  在旁边 ( 在旁边得意思 ketepikan is a wrong word use << aside >> or << tepi >> )
+
+180) ask  -  bertanya  -  问 ( use it in a daily )
+
+181) asleep  -  tertidur  -  睡着了, 已经睡着了 
+
+182) aspect  -  aspek  -  方面 ( talking to a friend use it as a word )
+
+183) assault  -  serangan  -  突击 ( use it in a murder )
+
+184) assert  -  tegaskan  -  断言 ( which mean always )
+
+185) assess  -  menilai  -  评估 ( no use, instead of using << exam >> )
+
+186) assessment  -  penilaian  -  评估 ( same as 185 )
+
+187) asset  -  asset  -  资产, 连接 ( use it in a starting program like << set up >> )
+
+188) assign  -  tugaskan  -  分配, 分配工作 ( you can use it in a company if you are a manager )
+
+189) assignment  -  tugasan  -  任务 ( use << a task >> if you think it was hard )
+
+190) assist  -  membantu  -  助攻 ( use it on a worker if you are a worker )
+
+191) assistance  -  bantuan  -  帮助 ( use it on a helping people but just use << help >> )
+
+192) assistant  -  pembantu  -  助手 ( a partner )
+
+193) associate  -  bersekutu  -  联系 ( use this word if you think << connect >> are easy )
+
+194) 
