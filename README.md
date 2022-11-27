@@ -297,4 +297,24 @@ a)
 
 145) appearance  -  penampilan  -  	外貌
 
-146) 
+146) apple  -  epal  -  苹果
+
+147) application  -  permohonan  -  应用
+
+148) apply  -  memohon  -  申请
+
+149) appoint  -  melantik  -  	委, 观点  }
+                                          } ( you can use it as an point )
+150) appointment  -  pelantikan  -  预约  }
+
+151) appreciate  -  hargai  -  	欣赏, 感激
+
+152) approach  -  pendekatan  -  	方法, 方式 ( use << method >> approach only happend in movies )
+
+153) appropriate  -  sesuai  -  	合适的
+
+154) approval  -  kelulusan  -  赞同, 同意
+
+155) approve  -  terima  -  批准 ( << terima >> and << terima kase >> is not the same and approve is use in a system that got error )
+
+156) 
