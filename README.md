@@ -227,4 +227,74 @@ a)
 
 110) amazing  -  menakjubkan  -  惊人的, 好好, 太棒了
 
-111) 
+111) american  -  amerika  -  美国人, 美国
+
+112) among  -  antara  -  之中
+
+113) amount  -  jumlah  -  	数量
+
+114) an  -  an  -  一个, 个
+
+115) analysis  -  analisis  -  	分析
+
+116) analyst  -  penganalisis  -  分析师
+
+117) analyze  -  menganalisis  -  分析, 分析师
+
+118) ancient  -  kuno  -  古老的, 古老, 古老的东西
+
+119) and  -  dan  -  和
+
+120) anger  -  kemarahan  -  愤怒, 脾气
+
+121) angle  -  sudut  -  角度
+
+122) angry  -  marah  -  生气
+
+123) animal  -  haiwan  -  动物
+
+124) anniversary  -  ulang tahun  -  周年纪念日
+
+125) announce  -  mengumumkan  - 	宣布
+
+126) annual  -  tahunan  -  年度的 ( no use, use << yearly >> )
+
+127) another  -  yang lain  -  其他
+
+128) answer  -  jawab  -  回答, 答案
+
+129) anticipate  -  jangkakan  -  预料, 知道 ( no use also use expected like just, like i expected )
+
+130) anxiety  -  kebimbangan  - 	焦虑, 教导 ( you can use on a students when you got bored of << teach >> instead use << anxiety >> )
+
+131) any  -  mana-mana/mana  -  任何, 一些, 任何一个, 任何一些
+
+132) anybody  -  sesiapa sahaja  -  任何人, 任何一个人
+
+133) anymore  -  lagi  -  不再, 还有吗 ( use << any body >> instead of using << anybody >> if you not sure )
+
+134) anyone  -  sesiapa  -  任何人
+
+135) anything  -  apa sahaja/apa saja  -  任何事物, 任何 ( if you use apa sahaja in malaysia you will get beat up instead of using apa saja )
+
+136) anyway  -  bagaimanapun/bagai mana  -  反正
+
+137) anywhere  -  di mana-mana sahaja  -  	任何地方
+
+138) apart  -  berpisah  -  是属于
+
+139) unapart  -  berpisah  -  分开
+
+140) apartment  -  pangsapuri  -  公寓  ( use this instead of using apart and unapart if not sure )
+
+141) apparent  -  ketara  -  明显的
+
+142) apparently  -  nampaknya  -  显然
+
+143) appeal  -  rayuan  -  上诉, 申请
+
+144) appear  -  muncul  -  出现, 突然出现
+
+145) appearance  -  penampilan  -  	外貌
+
+146) 
