@@ -405,4 +405,38 @@ a)
 
 193) associate  -  bersekutu  -  联系 ( use this word if you think << connect >> are easy )
 
-194) 
+194) association  -  persatuan  - 	协会 
+
+195) assume  -  andaikan  -  	认为 ( this one was use for scientist to use for thinking you can also use it )
+
+196) assumption  -  andaian  -  假设 ( the same thing like 195 )
+
+197) assure  -  beri jaminan  - 	保证, 确保 ( like promise meaning )
+
+198) at  -  di  -  在
+
+199) athlete  -  atlit  - 	运动员 ( use sport man instead )
+
+200) athletic  -  olahraga  -  运动的 
+
+201) atmosphere  -  suasana  -  大气层 ( use it on a mountain or something about cold )
+
+202) atom  -  atom  -  	原子
+
+203) attach  -  lampirkan  -  附 ( like execute something use this word, engineer will know )
+
+204) attack  -  serang  -  	攻击 
+
+205) attempt  -  percubaan  -  试 
+
+206) attend  -  hadir  -  参加 ( use it for student something sport, sing, hardcore and much more )
+
+207) attention  -  perhatian  -  	注意力 
+
+208) attitude  -  sikap  -  态度 ( use manner or behavior )
+
+209) attorney  -  peguam  -  	律师 ( use lawyer )
+
+210) attract  -  tertarik  - 	吸引 
+
+211) 
