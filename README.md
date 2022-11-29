@@ -5,6 +5,7 @@ this progress is for learning malaysia lauguage people
 
 -- wanna learning fast? everyday when you wake up you will get 3 hour x4 brain learning speed also you will need to have a heart to learn faster, afternoon 2P.M.-6P.M. you will also get 3 hour to learn faster if you still doesn't remember after closing the website then just open it up and see it faster then close it, want more challenge? Use only brain without drawing/writing it down. or you can use 14-25 minutes to learn and close, then after that try and remember what you have learn.
 
+--after you have learn something just type any emoji you want so that prove you have learn it and know the word.
 
 there are A - Z malay word 
 
