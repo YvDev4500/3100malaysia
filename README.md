@@ -2,10 +2,11 @@
 this progress is for learning malaysia lauguage people
 
 3100 Most Common Daily Use English-Malay Words And Their Meaning
-
--- wanna learning fast? everyday when you wake up you will get 3 hour x4 brain learning speed also you will need to have a heart to learn faster, afternoon 2P.M.-6P.M. you will also get 3 hour to learn faster if you still doesn't remember after closing the website then just open it up and see it faster then close it, want more challenge? Use only brain without drawing/writing it down. or you can use 14-25 minutes to learn and close, then after that try and remember what you have learn.
-
---after you have learn something just type any emoji you want so that prove you have learn it and know the word.
+<< all of them are facts and if you still doesn't trust it, try it for yoyrself >>
+-- wanna learn things fast? everyday when you wake up you will get 3 hour x4 brain learning speed also you will need to have a heart to learn faster focus on the thing you want to learn, afternoon 2P.M.-6P.M. you will also get 3 hour to learn faster if you still doesn't remember after closing the website then just open it up and see it faster then close it, want more challenge? Use only brain without drawing/writing it down. Or you can use 14-25 minutes to learn and close, then after that try and remember what you have learn. After learn it the knowledge you want, do not drink water for about 10 minute because if you drink it, it will let your brain a little shock just to improve the brain so the facts is ( after you learn new things wait for a little bit to drink water.) 
+-- do not took so much screen time on the phone it will numb your brain which mean too much screen time will cost damage to your brain, but it will also open the brain physic learning to improve yes again x4 learning speed.
+-- another trick i like is a very low chances but it also rare to have it, it will cost your brain x6 learning speed it called ( giddy, headache ) well it only happen on getting ill/sick or get it on the weather that are hot day it will also cost giddy.
+-- after you have learn something just type any emoji you want so that will prove you have learn it and know the word meaning knowledge. 
 
 there are A - Z malay word 
 
