@@ -415,7 +415,7 @@ a)
 
 198) at  -  di  -  在
 
-199) athlete  -  atlit  - 	运动员 ( use sport man instead )
+199) athlete  -  atlit  - 	运动员 
 
 200) athletic  -  olahraga  -  运动的 
 
@@ -439,4 +439,46 @@ a)
 
 210) attract  -  tertarik  - 	吸引 
 
-211) 
+211) attractive  -  menarik  - 	吸引人的 
+
+212) attribute  -  atribut  - 	属性
+
+213) audience  -  penonton  -  观众
+
+214) author  -  pengarang  -  作者
+
+215) authority  -  pihak berkuasa  -  权威, 权力
+
+216) auto  -  auto  -  汽车, 自动的
+
+217) available  -  tersedia  -  可用的, 有空
+
+218) average  -  purata  -  平均数, 普通 -> 普通人
+
+219) avoid  -  elakkan  -  避免
+
+220) award  -  anugerah  -  奖 ( it mean the prize or reward )
+
+221) aware  -  menyedari  -  意识到的, 意识到
+
+222) awareness  -  kesedaran  -  意识, 意识感
+
+223) away  -  jauh  -  离开
+
+224) awful  -  dahsyat  -  可怕, 糟糕, 非常
+
+225) baby  -  sayang  -  婴儿
+
+226) back  -  belakang  -  背部, 背
+
+227) background  -  latar belakang  -  背景 
+
+228) bad  -  teruk  -  坏的, 坏, 坏的人 -》 bad people
+
+229) badly  -  teruk  -  很糟糕, 糟糕
+
+230）bag  -  bag  -  包, 背包
+
+231) 
+
+
