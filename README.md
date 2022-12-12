@@ -479,6 +479,26 @@ a)
 
 230）bag  -  bag  -  包, 背包
 
-231) 
+231) bake  -  bakar  -  烤, 烘烤
 
+232) balance -  seimbang  -  平衡
 
+233) ball  -  bola  -  球
+
+234) ban  -  larangan  -  禁止
+
+235) band  -  pancaragam  -  乐队
+
+236) bank  -  bank  -  银行
+
+237) bar  -  bar  -  酒吧
+
+238) barely  -  hampir tidak  -  仅仅, 差一点
+
+239) barrel  -  tong  -  桶 ( use it in toilet ) <3
+
+240) barrier  -  penghalang  -  障碍
+
+241) base  -  asas  -  根据
+
+242) 
