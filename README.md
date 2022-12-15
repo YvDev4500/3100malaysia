@@ -501,4 +501,86 @@ a)
 
 241) base  -  asas  -  根据
 
-242) 
+242) baseball  -  besbol  -  棒球
+
+243) basic  -  asas  -  基本的, 基本 ( which mean it use in something daily life )
+
+244) basically  -  pada asasnya  -  基本上
+
+245) basis  -  asas  -  基础
+
+246) basket  -  bakul  -  篮子 
+
+247) basketball  -  bola keranjang  -  篮球
+
+248) bat  -  kelawar  -  蝙蝠, 棒球棒
+
+249) bathroom  -  bilik air  -  浴室, 厕所, 卫生间
+
+250) battery  -  betari  -  电池
+
+251) battle  -  pertempuran  -  战斗, 斗争
+
+252) be  -  jadilah  -  是, 变成
+
+253) beach  -  pantai  -  海滩
+
+254) bean  -  kacang  -  豆角，扁豆, 豆
+
+255) bear  -  beruang  -  熊 ( you can use it in bear kid, dark bear )
+
+256) beat  -  pukul  -  打
+
+257) beautiful  -  cantik/cantiknya  -  美丽的, 美丽, 好美 ( use it on a person or something that are pretty )
+
+258) beauty  -  cantiknya/ kecantikan  -  美丽, 美女 ( use it in a pretty girl )
+
+259) because  -  kerana  -  因为
+
+260) become  -  menjadi  -  变得, 变 ( you can use it in change )
+
+261) bed  -  katil  -  床, 睡床
+
+262) bedroom  -  bilik tidur  -  卧室, 房间, 睡房
+
+263) been  -  telah  -  是
+
+264) beer  -  bir  -  啤酒, 酒
+
+265) before  -  sebelum ini  -  前, 前世
+
+266) began  -  bermula  -  开始了
+
+267) begin -  bermula  -  开始
+
+268) beginning  -  permulaan  -  开始
+
+269) behavior  -  tingkah laku  -  行为
+
+270) behind  -  belakang  -  在后面, 后面
+
+271) being  -  menjadi  -  存在, 变成
+
+272) belief  -  kepercayaan  -  信仰, 宗教
+
+273) believe  -  percaya  -  相信
+
+274) bell  -  loceng  -  钟, 闹钟
+
+275) belong  -  milik  -  属于
+
+276) below  -  di bawah  -  以下
+
+277) belt  -  tali pinggang  -  腰带
+
+278) bench  -  bangku  -  长椅 ( ay better learn this quick or you will get punch by others in malaysia or USA people )
+
+279) bend  -  bengkok  -  弯曲
+
+280) beneath  -  di bawah  -  下面, 以下
+
+281) benefit  -  faedah  -  益处
+
+282) beside  -  sebelah  -  旁, 旁边
+
+283) 
