@@ -583,4 +583,50 @@ a)
 
 282) beside  -  sebelah  -  旁, 旁边
 
-283) 
+283) besides  -  selain itu  -  除了 
+
+284) best  - terbaik  -  最好的事物, 最好
+
+285) bet  -  pertaruhan  -  赌注 ( you can use it in something that can bet )
+
+286) better  -  lebih bail  -  更好的, 更好
+
+287) between  -  antara  -  之间
+
+288) beyond  -  di luar  - 	超过
+
+289) bible  -  bible  -  圣经 ( your that thing jk*)
+
+290) big  -  besar  -  大
+
+291) bike  -  basikal/ baike  -  自行车
+
+292) bill  -  bil  -  账单
+
+293) billion  -  bilion  -  十亿, 亿
+
+294) bind  -  mengikat  -  绑定
+
+295) biological  -  biologi  -  生物, 生物学
+
+296) bird  -  burung  -  鸟, 小鸟
+
+297) birth  -  kelahiran  -  出生
+
+298) birthday  -  hari jadi  -  生日
+
+299) bit  -  sedikit/ bit  -  少量 
+
+300) bite  -  menggigit  -  咬
+
+301) black  -  hitam  -  黑色的, 黑色 ( you can use it on black people or something that are black )
+
+302) blade  -  bilah  -  刀刃
+
+303) blame  -  salahkan  -  责备, 责怪, 怪
+
+304) blanket  -  selimut  -  毯子
+
+305) blind  -  buta  -  瞎的, 瞎
+
+306) 
