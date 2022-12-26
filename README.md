@@ -51,9 +51,9 @@ a)
 
 16) access  -  akses  -  使用权
 
-17) accident  -  kemalangan  -  	事故
+17) accident  -  kemalangan  -  事故
 
-18) accompany  -  menemani  -  	陪伴
+18) accompany  -  menemani  - 	陪伴
 
 19) accomplish  -  capai  -  完成
 
@@ -65,7 +65,7 @@ a)
 
 23) accuse  -  menuduh  -  	控诉
 
-24) achieve  -  capai  -  	达到
+24) achieve  -  capai  -  达到
 
 25) achievement  -  pencapaian  -  成就
 
