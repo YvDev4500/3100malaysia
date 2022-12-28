@@ -627,6 +627,80 @@ a)
 
 304) blanket  -  selimut  -  毯子
 
-305) blind  -  buta  -  瞎的, 瞎
+305) blind  -  buta  -  瞎的, 瞎 ( use it on a person )
 
-306) 
+306) block  -  blok  -  堵塞
+
+307) blood  -  darah  -  血液
+
+308) blow  -  pukulan  -  吹, 爆炸
+
+309) blue  -  biru  -  蓝色
+
+310) board  -  papan  -  木板, 板
+
+311) boat  -  bout  -  船
+
+312) body  -  badan  -  身体
+
+313) bomb  -  bom  -  炸弹
+
+314) bombing  -  pengeboman  -  轰炸
+
+315) bond  -  ikatan  -  键
+
+316) bone  -  tulang  -  骨, 骨头
+
+317) book  -  buku  -  书, 书本
+
+318) boom  -  boom  -  繁荣
+
+319) boot  -  boot  -  开机
+
+320) border  -  sempadan  -  边界, 边
+
+321) born  -  dilahirkan  -  出生
+
+322) borrow  -  meminjam  -  借
+
+323) boss  -  bos  -  老板, 老大
+
+324) both  -  kegua-duanya  -  两个都
+
+325) bother  -  menyusahkan  -  打扰
+
+326) bottle  -  botol  -  瓶子
+
+327) bottom  -  bawah  -  底部
+
+328) bought  -  dibeli  -  买
+
+329) boundary  -  sempadan  -  边界
+
+330) bowl  -  mangkuk  -  碗
+
+331) box  -  kotak  -  盒子, 盒
+
+332) boy  -  budak lelaki  -  	男孩
+
+333) boyfriend  -  teman lelaki  -  男朋友
+
+334) brain  -  otak  -  脑, 头脑, 大脑, 脑髓
+
+335) branch  -  cawangan  -  	分支
+
+336) brand  -  jenama  -  牌
+
+337) bread  -  roti  -  	面包
+
+338) break  -  rehat  -  休息
+
+339) breakfast  -  sarapan pagi  -  早餐
+
+340) breast  -  payudara  -  胸部 ( use it for women 😏 )
+
+341) breath  -  nafas  -  呼吸
+
+342) breathe  -  bernafas  -  呼吸
+
+423) 
