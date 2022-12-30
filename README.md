@@ -703,4 +703,42 @@ a)
 
 342) breathe  -  bernafas  -  呼吸
 
-343) 
+343) brick  -  bata  -  砖
+
+344) bridge  -  jambatan  -  桥
+
+345) brief  -  ringkas  -  简短的
+
+346) briefly  -  secara ringkas  -  简要地
+
+347) bright  -  terang  -  明亮的, 亮, 光亮
+
+348) brilliant  -  cemerlang  -  杰出的, 出色 ( brilliant it about a genius made something cool or working something that are brilliant or very excellent )
+
+349) bring  -  bawak  -  带来, 带
+
+350) british  -  inggeris  -  英国 ( if your teacher are good at british then you're done )
+
+351) broad  -  luas  -  广阔 ( which mean wide 意思就是说很宽阔 )
+
+352) broke  -  pecah  -  打破了, 打破, 破
+
+353) broken  -  rosak  -  破碎的, 破碎, 破
+
+354) brother  -  abang  -  兄弟, 哥哥, 弟弟
+
+355) brought  -  dibawa  -  带来
+
+356) brown  -  coklat  - 	棕色的, 棕色
+
+357) brush  -  berus  -  刷子, 刷
+
+358) buck  -  duit/wang  -  降压, 钱 ( it mean money = duit or wang
+
+359) budget  -  bajet  -  预算
+
+360) build  -  membina  -	 建造, 	造 ( you can use it on something you build )
+
+361) 
+
+
