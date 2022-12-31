@@ -739,6 +739,124 @@ a)
 
 360) build  -  membina  -	 建造, 	造 ( you can use it on something you build )
 
-361) 
+361) building  -  bangunan  -  建筑
 
+362) bullet  -  peluru  -  子弹
 
+363) bunch  -  sekempulan  -  束
+
+364) burden  -  beban  -  负担
+
+365) burn  -  terbakar  -  烧伤, 烧
+
+366) bury  -  kuburkan  -  埋葬
+
+367) bus  -  bas  -  公共汽车
+
+368) business  -  perniagaan  -  商业
+
+369) busy  -  sibuk  -  忙碌的, 忙
+
+370) but  -  tetapi  -  但, 但是
+
+371) butter  -  mentega  -  牛油
+
+372) button  -  butang  -  按钮
+
+373) buy  -  beli  -  买
+
+374) buyer  -  pembeli  -  买方, 买家
+
+375) by  -  oleh  -  经过 ( you can use it on pass by )
+
+376) cabin  -  kabin  -  舱
+
+377) cabinet  -  kabinet  -  内阁
+
+378) cable  -  kabel  -  电缆
+
+379) cake  -  kake  -  蛋糕
+
+380) calculate  -  mengira  -  计算
+
+381) call  -  panggil  -  称呼
+
+382) came  -  datang  -  来了
+
+383) camera  -  kamera  -  相机
+
+384) camp  -  perkhemahan  -  营, 营影
+
+385) campeign  -  kempen  -  活动
+
+386) campus  -  kampus  -  校园
+
+387) can  -  boleh  -  能够, 能
+
+388) canadian  -  kanada  -  加拿大人
+
+389) cancer  -  barah  -  癌症
+
+390) candidate  -  calon  -  候选人
+
+391) cap  -  topi  -  帽, 	帽子
+
+392) capability  -  keupayaan  -  能力, 本事 ( you can use one of them << ability >> or << capability >> )
+
+393) capable  -  berkemampuan  -  有能力的
+
+394) capacity  -  kepasiti  -  容量
+
+395) capital  -  modal  -  首都, 资本
+
+396) captain  -  kapten  -  队长
+
+397) capture  -  menangkap  -  捕获
+
+398) car  -  kereta  -  车
+
+399) carbon  -  karbon  -  碳
+
+400) card  -  kad  -  卡片, 卡
+
+401) care  -  jaga  -  关心
+
+402) career  -  kerjaya  -  职业
+
+403) careful  -  berhati-hati  -  小心   }
+                                          } ( be carefull )
+404) carefully  -  berhati-hati  -  小心  }
+
+405) carrier  -  pembawa  -  载体 ( tell you something "imma be ending it this whole carrier )
+
+406) carry  -  membawa  -  携带
+
+407) case  -  kes  -  案件
+
+408) cash  -  tunai  -  现金
+
+409) cast  -  melempar/lempar  -  投掷, 丢\
+
+410) cat  -  kucing  -  猫
+
+411) catch  -  tangkap  -  抓住, 抓
+
+412) category  -  kategori  -  类别
+
+413) catholic  -  katolik  -  天主教
+
+414) caught  -  ditangkap  -  抓住, 抓
+
+415) cause  -  sebab  -  原因
+
+416) ceiling  - siling  -  天花板
+
+417) celebrate  -  meraikan/keraian  -  庆祝
+
+418) celebration  -  perayaan  -  庆典
+
+419) celebrity  -  selebriti  -  名人
+
+420) cell  -  sel  -  细胞
+
+421)
