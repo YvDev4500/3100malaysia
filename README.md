@@ -21,39 +21,39 @@ a)
 
 1) a  -  satu  - 	一  
 
-2) abandon  -  tinggalkan  -  放弃
+2) abandon  -  tinggalkan  -  放弃 ( Fàng qì )
 
-3) ability  -  kebolehan  -	 能力
+3) ability  -  kebolehan  -	 能力 ( Néng lì )
 
-4) able  -  mampu  - 	有能力的
+4) able  -  mampu  - 	有能力的 ( Yǒu néng lì de )
 
-5) abortion  -  pengguguran  -  流产
+5) abortion  -  pengguguran  -  流产 ( Liú chǎn )
 
-6) about  -  kira-kira  -  关于
+6) about  -  kira-kira  -  关于 ( Guān yú )
 
-7) above  -  di atas  -  以上
+7) above  -  di atas  -  以上 ( Yǐ shàng )
 
-8) abroad  -  luar negara  -  	国外
+8) abroad  -  luar negara  -  国外 ( Guó wài )
 
-9) absence  -  ketiadaan  -  缺席
+9) absence  -  ketiadaan  -  缺席 ( Quē xí )
 
-10) absolute  -  mutlak  -  绝对
+10) absolute  -  mutlak  -  绝对 ( Jué duì )
 
-11) absolutely  -  secara mutlak  -  	绝对地
+11) absolutely  -  secara mutlak  -  绝对地 ( Jué duì dì )
 
-12) absorb  -  menyerap  -  吸收
+12) absorb  -  menyerap  -  吸收 ( Xī shōu )
 
-13) abuse  -  penderaan  -  虐待
+13) abuse  -  penderaan  -  虐待 ( Nüè dài )
 
-14) academic  -  akademik  -  学术的
+14) academic  -  akademik  -  学术的 ( Xué shù de )
 
-15) accept  -  terima  -  接受
+15) accept  -  terima  -  接受 ( Jiē shòu )
 
-16) access  -  akses  -  使用权
+16) access  -  akses  -  使用权 ( Shǐ yòng quán )
 
-17) accident  -  kemalangan  -  事故
+17) accident  -  kemalangan  -  事故, 失误 ( Shì gù ), ( Shī wù )
 
-18) accompany  -  menemani  - 	陪伴
+18) accompany  -  menemani  -  陪伴
 
 19) accomplish  -  capai  -  完成
 
