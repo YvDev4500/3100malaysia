@@ -859,4 +859,86 @@ a)
 
 420) cell  -  sel  -  细胞
 
-421)
+421) cent  -  sen  -  分 ( you can use in money like 1 cent )
+
+422) center  -  pusat  -  中央
+
+423) central  -  pusat  -  中央
+
+424) century  -  abad  -  世纪
+
+425) Ketua Pegawai Eksekutif  -  CEO  -  首席执行官, 总裁
+
+426) ceremony  -  majlis  -  仪式
+
+427) certain  -  pasit  -  肯定
+
+428) certainly  -  sudah tentu  -  当然
+
+429) chain  -  rantai  -  链
+
+430) chair  -  kerusi  -  椅子
+
+431) chairman  -  pengerusi  -  主席
+
+432) challenge  -  cabaran  -  挑战
+
+433) chamber  -  bilik  -  房间
+
+434) champion  -  juara  -  冠军
+
+435) championship  -  kejuaraan  -  锦标赛
+
+436) chance  -  peluang  -  机会 ( use opportunity if you want )
+
+437) change  -  ubah  -  改变
+
+438) changing  -  berubah  -  改变
+
+439) channel  -  saluran  -  渠道
+
+440) chapter  -  chapter/bab  -  章节
+
+441) character  -  watak  -  特点, 主角
+
+442) characteristic  -  ciri  -  特征
+
+443) characterize  -  mencirikan  -  表征
+
+444) charge  -  caj  -  收费 ( you can use in charge in )
+
+445) charity  -  amal jariah  -  慈善机构
+
+446) chart  -  jarta  -  图表
+
+447) chase  -  mengejar  -  追赶, 追
+
+448) cheap  -  murah  -  便宜的 ( you can use in something that are cheap )
+
+449) check  -  semak  -  查看
+
+450) cheek  -  pipi  -  脸颊
+
+451) cheese  -  keju  -  起司, 奶酪
+
+452) chef  -  tukang masak  -  厨师
+
+453) chemical  -  kimia  -  化学的, 化学
+
+454) chest  -  dada  -  胸部
+
+455) chick  -  anak ayam  -  小鸡
+
+456) chicken  -  ayam  -  鸡
+
+457) chief  -  ketua  -  首席
+
+458) child  -  anak  -  孩子 ( you can use anak lelaki or anak perempuan ) 
+
+459) childhood  -  zaman kanak-kanak  -  童年 ( you can use he/she is my childhood friend )
+
+460) children  -  kanak-kanak/anak-anak/kanak/anak  -  孩子们
+
+461) chinese  -  cina  -  中国人
+
+462) 
