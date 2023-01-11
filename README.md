@@ -1019,4 +1019,670 @@ a)
 
 500) clue  -  petunjuk  -  线索
 
-501) 
+501) cluster  -  kelompok  -  
+
+502) coach  -  jurulatih  -  
+
+503) coal  -  arang batu  -  
+
+504) coalition  -  pakatan  -  
+
+505) coast	-  pantai  -  
+
+506) coat  -  kot  -  
+
+507) code	 -  kod  -  
+
+508) coffee	 -  kopi  -  
+
+509) cognitive	-  kognitif  -  
+
+510) cold  - 	sejuk  -  
+
+511) collapse  - 	runtuh  -  
+
+512) colleague	-  rakan sekerja  -  
+
+513) collect	-  mengumpul  -  
+
+514) collection	koleksi  -  
+
+515) collective	 -  kolektif  -  
+
+516) college	-  kolej  -  
+
+517) colonial	 -  penjajah  -  
+
+518) colony	 -  tanah jajahan  -  
+
+519) color	-  warna  -  
+
+520) column	 -  ruangan  -  
+
+521) combination	gabungan
+
+522) combine	Gabung
+
+523) come	datang
+
+524) comedy	komedi
+
+525) comfort	keselesaan
+
+526) comfortable	selesa
+
+527) command	perintah
+
+528) commander	komander
+
+529) comment	komen
+
+530) commercial	komersial
+
+531) commission	komisen
+
+532) commit	komited
+
+533) commitment	komitmen
+
+534) committee	jawatankuasa
+
+535) common	biasa
+
+536) communicate	berkomunikasi
+
+537) communication	komunikasi
+
+538) community	masyarakat
+
+539) company	syarikat
+
+540) compare	bandingkan
+
+541) comparison	perbandingan
+
+542) compete	bersaing
+
+543) competition	persaingan
+
+544) competitive	berdaya saing
+
+545) competitor	pesaing
+
+546) complain	mengeluh
+
+547) complaint	aduan
+
+548) complete	lengkap
+
+549) completely	sepenuhnya
+
+550) complex	kompleks
+
+551) complicated	rumit
+
+552) component	komponen
+
+553) compose	mengarang
+
+554) composition	gubahan
+
+555) comprehensive	menyeluruh
+
+556) computer	komputer
+
+557) concentrate	menumpukan perhatian
+
+558) concentration	penumpuan
+
+559) concept	konsep
+
+560) concern	kebimbangan
+
+561) concerned	mengambil berat
+
+562) concert	konsert
+
+563) conclude	membuat kesimpulan
+
+564) conclusion	kesimpulan
+
+565) concrete	konkrit
+
+566) condition syarat
+
+567) conduct	kelakuan
+
+568) conference	persidangan
+
+569) confidence	keyakinan diri
+
+570) confident	yakin
+
+confirm	mengesahkan
+
+conflict	konflik
+
+confront	berhadapan
+
+confusion	kekeliruan
+
+Congress	Kongres
+
+congressional	kongres
+
+connect	menyambung
+
+connection	sambungan
+
+consciousness	kesedaran
+
+consensus	muafakat
+
+consequence	akibat
+
+conservative	konservatif
+
+consider	pertimbangkan
+
+considerable	agak besar
+
+consideration	pertimbangan
+
+consist	terdiri
+
+consistent	konsisten
+
+consonant	konsonan
+
+constant	tetap
+
+constantly	secara berterusan
+
+constitute	membentuk
+
+constitutional	berperlembagaan
+
+construct	membina
+
+construction	pembinaan
+
+consultant	perunding
+
+consume	memakan
+
+consumer	pengguna
+
+consumption	penggunaan
+
+contact	kenalan
+
+contain	mengandungi
+
+container	bekas
+
+contemporary	kontemporari
+
+content	kandungan
+
+contest	pertandingan
+
+context	konteks
+
+continent	benua
+
+continue	teruskan
+
+continued	diteruskan
+
+contract	kontrak
+
+contrast	kontras
+
+contribute	menyumbang
+
+contribution	sumbangan
+
+control	kawalan
+
+controversial	kontroversi
+
+controversy	kontroversi
+
+convention	konvensyen
+
+conventional	konvensional
+
+conversation	perbualan
+
+convert	menukar
+
+conviction	sabitan
+
+convince	meyakinkan
+
+cook	masak
+
+cookie	biskut
+
+cooking	memasak
+
+cool	sejuk
+
+cooperation	kerja 
+
+cop	polis
+
+cope	mengatasi
+
+copy	salinan
+
+core	teras
+
+corn	jagung
+
+corner	sudut
+
+corporate	korporat
+
+corporation	perbadanan
+
+correct	betul
+
+correspondent	wartawan
+
+cost	kos
+
+cotton	kapas
+
+couch	pelamin
+
+could	boleh
+
+council	majlis
+
+counselor	kaunselor
+
+count	mengira
+
+counter	kaunter
+
+country	negara
+
+county	Daerah
+
+couple	pasangan
+
+courage	keberanian
+
+course	kursus
+
+court	mahkamah
+
+cousin	sepupu
+
+cover	penutup
+
+coverage	liputan
+
+cow	lembu
+
+crack	retak
+
+craft	kerajinan
+
+crash	kemalangan
+
+crazy	gila
+
+cream	krim
+
+crease	lipatan
+
+create	cipta
+
+creation	ciptaan
+
+creative	kreatif
+
+creature	makhluk
+
+credit	kredit
+
+crew	anak kapal
+
+crime	jenayah
+
+criminal	penjenayah
+
+crisis	krisis
+
+criteria	kriteria
+
+critic	pengkritik
+
+critical	kritikal
+
+criticism	kritikan
+
+criticize	mengkritik
+
+crop	potong
+
+cross	menyeberang
+
+crowd	orang ramai
+
+crucial	penting
+
+cry	menangis
+
+cultural	budaya
+
+culture	budaya
+
+cup	cawan
+
+curious	ingin tahu
+
+current	semasa
+
+currently	pada masa ini
+
+curriculum	kurikulum
+
+custom	adat
+
+customer	pelanggan
+
+cut	potong
+
+cycle	kitaran
+
+dad	ayah
+
+daily	setiap hari
+
+damage	kerosakan
+
+dance	menari
+
+danger	bahaya
+
+dangerous	bahaya
+
+dare	berani
+
+dark	gelap
+
+darkness	kegelapan
+
+data	data
+
+date	Tarikh
+
+daughter	anak perempuan
+
+day	hari
+
+dead	mati
+
+deal	perjanjian
+
+dealer	peniaga
+
+dear	sayang
+
+death	kematian
+
+debate	perbahasan
+
+debt	hutang
+
+decade	dekad
+
+decide	memutuskan
+
+decimal	perpuluhan
+
+decision	keputusan
+
+deck	dek
+
+declare	mengisytiharkan
+
+decline	merosot
+
+decrease	berkurangan
+
+deep	dalam
+
+deeply	secara mendalam
+
+deer	rusa
+
+defeat	kekalahan
+
+defend	mempertahankan
+
+defendant	defendan
+
+defense	pertahanan
+
+defensive	defensif
+
+deficit	defisit
+
+define	tentukan
+
+definitely	pasti
+
+definition	takrifan
+
+degree	ijazah
+
+delay	kelewatan
+
+deliver	menyampaikan
+
+delivery	penghantaran
+
+demand	permintaan
+
+democracy	demokrasi
+
+Democrat	Demokrat
+
+democratic	demokratik
+
+demonstrate	berdemonstrasi
+
+demonstration	demonstrasi
+
+deny	menafikan
+
+department	jabatan
+
+depend	bergantung
+
+dependent	bergantung
+
+depending	bergantung
+
+depict	menggambarkan
+
+depression	kemurungan
+
+depth	kedalaman
+
+deputy	timbalan
+
+derive	terbitkan
+
+describe	huraikan
+
+description	penerangan
+
+desert	padang pasir
+
+deserve	layak
+
+design	reka bentuk
+
+designer	pereka bentuk
+
+desire	keinginan
+
+desk	meja
+
+desperate	terdesak
+
+despite	walaupun
+
+destroy	memusnahkan
+
+destruction	kemusnahan
+
+detail	terperinci
+
+detailed	terperinci
+
+detect	mengesan
+
+determine	tentukan
+
+develop	membangun
+
+developing	membangun
+
+development	pembangunan
+
+device	peranti
+
+devote	menumpukan
+
+dialogue	dialog
+
+dictionary	kamus
+
+did	lakukan
+
+die	mati
+
+diet	diet
+
+differ	berbeza
+
+difference	beza
+
+different	berbeza
+
+differently	berbeza
+
+difficult	sukar
+
+difficulty	kesukaran
+
+dig	menggali
+
+digital	digital
+
+dimension	dimensi
+
+dining	menjamu selera
+
+dinner	makan malam
+
+direct	langsung
+
+direction	arah
+
+directly	secara langsung
+
+director	pengarah
+
+dirt	kotoran
+
+dirty	kotor
+
+disability	kecacatan
+
+disagree	tidak bersetuju
+
+disappear	hilang
+
+disaster	bencana
+
+discipline	disiplin
+
+discourse	wacana
+
+discover	menemui
+
+discovery	penemuan
+
+discrimination	diskriminasi
+
+discuss	berbincang
+
+discussion	perbincangan
+
+disease	penyakit
+
+dish	hidangan
+
+dismiss	tolak
+
+disorder	gangguan
+
+display	paparan
+
+dispute	pertikaian
+
+distance	jarak
+
+distant	jauh
+
+distinct	tersendiri
+
+distinction	perbezaan
+
+distinguish	membezakan
+
+distribute	mengedarkan
+
+distribution	pengedaran
+
+district	daerah
+
+diverse	pelbagai
+
+diversity	kepelbagaian
+
+divide	bahagikan
+
+division	pembahagian
+
+divorce	penceraian
+
+DNA	DNA
+
+do	buat
+
+doctor	doktor
+
+document	dokumen
+
+does	tidak
+
+dog	anjing
+
+dollar	dolar
+
+
+domestic	domestik
+
+dominant	dominan
+
+dominate
+
