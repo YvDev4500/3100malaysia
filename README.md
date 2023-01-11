@@ -1159,530 +1159,529 @@ a)
 
 570) confident	yakin
 
-confirm	mengesahkan
+571) confirm	mengesahkan
 
-conflict	konflik
+572) conflict	konflik
 
-confront	berhadapan
+573) confront	berhadapan
 
-confusion	kekeliruan
+574) confusion	kekeliruan
 
-Congress	Kongres
+575) Congress	Kongres
 
-congressional	kongres
+576) congressional	kongres
 
-connect	menyambung
+577) connect	menyambung
 
-connection	sambungan
+578) connection	sambungan
 
-consciousness	kesedaran
+579) consciousness	kesedaran
 
-consensus	muafakat
+580) consensus	muafakat
 
-consequence	akibat
+581) consequence	akibat
 
-conservative	konservatif
+582) conservative	konservatif
 
-consider	pertimbangkan
+583) consider	pertimbangkan
 
-considerable	agak besar
+584) considerable	agak besar
 
-consideration	pertimbangan
+585) consideration	pertimbangan
 
-consist	terdiri
+586) consist	terdiri
 
-consistent	konsisten
+587) consistent	konsisten
 
-consonant	konsonan
+588) consonant	konsonan
 
-constant	tetap
+589) constant	tetap
 
-constantly	secara berterusan
+590) constantly	secara berterusan
 
-constitute	membentuk
+591) constitute	membentuk
 
-constitutional	berperlembagaan
+592) constitutional	berperlembagaan
 
-construct	membina
+593) construct	membina
 
-construction	pembinaan
+594) construction	pembinaan
 
-consultant	perunding
+595) consultant	perunding
 
-consume	memakan
+596) consume	memakan
 
-consumer	pengguna
+597) consumer	pengguna
 
-consumption	penggunaan
+598) consumption	penggunaan
 
-contact	kenalan
+599) contact	kenalan
 
-contain	mengandungi
+600) contain	mengandungi
 
-container	bekas
+601) container	bekas
 
-contemporary	kontemporari
+602) contemporary	kontemporari
 
-content	kandungan
+603) content	kandungan
 
-contest	pertandingan
+604) contest	pertandingan
 
-context	konteks
+605) context	konteks
 
-continent	benua
+606) continent	benua
 
-continue	teruskan
+607) continue	teruskan
 
-continued	diteruskan
+608) continued	diteruskan
 
-contract	kontrak
+609) contract	kontrak
 
-contrast	kontras
+610) contrast	kontras
 
-contribute	menyumbang
+611) contribute	menyumbang
 
-contribution	sumbangan
+612) contribution	sumbangan
 
-control	kawalan
+613) control	kawalan
 
-controversial	kontroversi
+614) controversial	kontroversi
 
-controversy	kontroversi
+615) controversy	kontroversi
 
-convention	konvensyen
+616) convention	konvensyen
 
-conventional	konvensional
+617) conventional	konvensional
 
-conversation	perbualan
+618) conversation	perbualan
 
-convert	menukar
+619) convert	menukar
 
-conviction	sabitan
+620) conviction	sabitan
 
-convince	meyakinkan
+621) convince	meyakinkan
 
-cook	masak
+622) cook	masak
 
-cookie	biskut
+623) cookie	biskut
 
-cooking	memasak
+624) cooking	memasak
 
-cool	sejuk
+625) cool	sejuk
 
-cooperation	kerja 
+626) cooperation	kerja 
 
-cop	polis
+627) cop	polis
 
-cope	mengatasi
+628) cope	mengatasi
 
-copy	salinan
+629) copy	salinan
 
-core	teras
+630) core	teras
 
-corn	jagung
+631) corn	jagung
 
-corner	sudut
+632) corner	sudut
 
-corporate	korporat
+633) corporate	korporat
 
-corporation	perbadanan
+634) corporation	perbadanan
 
-correct	betul
+635) correct	betul
 
-correspondent	wartawan
+636) correspondent	wartawan
 
-cost	kos
+637) cost	kos
 
-cotton	kapas
+638) cotton	kapas
 
-couch	pelamin
+639) couch	pelamin
 
-could	boleh
+640) could	boleh
 
-council	majlis
+641) council	majlis
 
-counselor	kaunselor
+642) counselor	kaunselor
 
-count	mengira
+643) count	mengira
 
-counter	kaunter
+644) counter	kaunter
 
-country	negara
+645) country	negara
 
-county	Daerah
+646) county	Daerah
 
-couple	pasangan
+647) couple	pasangan
 
-courage	keberanian
+648) courage	keberanian
 
-course	kursus
+649) course	kursus
 
-court	mahkamah
+650) court	mahkamah
 
-cousin	sepupu
+651) cousin	sepupu
 
-cover	penutup
+652) cover	penutup
 
-coverage	liputan
+653) coverage	liputan
 
-cow	lembu
+654) cow	lembu
 
-crack	retak
+655) crack	retak
 
-craft	kerajinan
+656) craft	kerajinan
 
-crash	kemalangan
+657) crash	kemalangan
 
-crazy	gila
+658) crazy	gila
 
-cream	krim
+659) cream	krim
 
-crease	lipatan
+660) crease	lipatan
 
-create	cipta
+661) create	cipta
 
-creation	ciptaan
+662) creation	ciptaan
 
-creative	kreatif
+663) creative	kreatif
 
-creature	makhluk
+664) creature	makhluk
 
-credit	kredit
+665) credit	kredit
 
-crew	anak kapal
+666) crew	anak kapal
 
-crime	jenayah
+667) crime	jenayah
 
-criminal	penjenayah
+668) criminal	penjenayah
 
-crisis	krisis
+669) crisis	krisis
 
-criteria	kriteria
+670) criteria	kriteria
 
-critic	pengkritik
+671) critic	pengkritik
 
-critical	kritikal
+672) critical	kritikal
 
-criticism	kritikan
+673) criticism	kritikan
 
-criticize	mengkritik
+674) criticize	mengkritik
 
-crop	potong
+675) crop	potong
 
-cross	menyeberang
+676) cross	menyeberang
 
-crowd	orang ramai
+677) crowd	orang ramai
 
-crucial	penting
+678) crucial	penting
 
-cry	menangis
+679) cry	menangis
 
-cultural	budaya
+680) cultural	budaya
 
-culture	budaya
+681) culture	budaya
 
-cup	cawan
+682) cup	cawan
 
-curious	ingin tahu
+683) curious	ingin tahu
 
-current	semasa
+684) current	semasa
 
-currently	pada masa ini
+685) currently	pada masa ini
 
-curriculum	kurikulum
+686) curriculum	kurikulum
 
-custom	adat
+687) custom	adat
 
-customer	pelanggan
+688) customer	pelanggan
 
-cut	potong
+689) cut	potong
 
-cycle	kitaran
+690) cycle	kitaran
 
-dad	ayah
+691) dad	ayah/bapa
 
-daily	setiap hari
+692) daily	setiap hari
 
-damage	kerosakan
+693) damage	kerosakan
 
-dance	menari
+694) dance	menari
 
-danger	bahaya
+695) danger	bahaya
 
-dangerous	bahaya
+696) dangerous	bahaya
 
-dare	berani
+697) dare	berani
 
-dark	gelap
+698) dark	gelap
 
-darkness	kegelapan
+699) darkness	kegelapan
 
-data	data
+700) data	data
 
-date	Tarikh
+701) date	Tarikh
 
-daughter	anak perempuan
+702) daughter	anak perempuan
 
-day	hari
+703) day	hari
 
-dead	mati
+704) dead	mati
 
-deal	perjanjian
+705) deal	perjanjian
 
-dealer	peniaga
+706) dealer	peniaga
 
-dear	sayang
+707) dear	sayang
 
-death	kematian
+708) death	kematian
 
-debate	perbahasan
+709) debate	perbahasan
 
-debt	hutang
+710) debt	hutang
 
-decade	dekad
+711) decade	dekad
 
-decide	memutuskan
+712) decide	memutuskan
 
-decimal	perpuluhan
+713) decimal	perpuluhan
 
-decision	keputusan
+714) decision	keputusan
 
-deck	dek
+715) deck	dek
 
-declare	mengisytiharkan
+716) declare	mengisytiharkan
 
-decline	merosot
+717) decline	merosot
 
-decrease	berkurangan
+718) decrease	berkurangan
 
-deep	dalam
+719) deep	dalam
 
-deeply	secara mendalam
+720) deeply	secara mendalam
 
-deer	rusa
+721) deer	rusa
 
-defeat	kekalahan
+722) defeat	kekalahan
 
-defend	mempertahankan
+723) defend	mempertahankan
 
-defendant	defendan
+724) defendant	defendan
 
-defense	pertahanan
+725) defense	pertahanan
 
-defensive	defensif
+726) defensive	defensif
 
-deficit	defisit
+727) deficit	defisit
 
-define	tentukan
+728) define	tentukan
 
-definitely	pasti
+729) definitely	pasti
 
-definition	takrifan
+730) definition	takrifan
 
-degree	ijazah
+731) degree	ijazah
 
-delay	kelewatan
+732) delay	kelewatan
 
-deliver	menyampaikan
+733) deliver	menyampaikan
 
-delivery	penghantaran
+734) delivery	penghantaran
 
-demand	permintaan
+735) demand	permintaan
 
-democracy	demokrasi
+736) democracy	demokrasi
 
-Democrat	Demokrat
+737) Democrat	Demokrat
 
-democratic	demokratik
+738) democratic	demokratik
 
-demonstrate	berdemonstrasi
+739) demonstrate	berdemonstrasi
 
-demonstration	demonstrasi
+740) demonstration	demonstrasi
 
-deny	menafikan
+741) deny	menafikan
 
-department	jabatan
+742) department	jabatan
 
-depend	bergantung
+743) depend	bergantung
 
-dependent	bergantung
+744) dependent	bergantung
 
-depending	bergantung
+745) depending	bergantung
 
-depict	menggambarkan
+746) depict	menggambarkan
 
-depression	kemurungan
+747) depression	kemurungan
 
-depth	kedalaman
+748) depth	kedalaman
 
-deputy	timbalan
+749) deputy	timbalan
 
-derive	terbitkan
+750) derive	terbitkan
 
-describe	huraikan
+751) describe	huraikan
 
-description	penerangan
+752) description	penerangan
 
-desert	padang pasir
+753) desert	padang pasir
 
-deserve	layak
+754) deserve	layak
 
-design	reka bentuk
+755) design	reka bentuk
 
-designer	pereka bentuk
+756) designer	pereka bentuk
 
-desire	keinginan
+757) esire	keinginan
 
-desk	meja
+758) desk	meja
 
-desperate	terdesak
+759) desperate	terdesak
 
-despite	walaupun
+760) despite	walaupun
 
-destroy	memusnahkan
+761) destroy	memusnahkan
 
-destruction	kemusnahan
+762) destruction	kemusnahan
 
-detail	terperinci
+763) detail	terperinci
 
-detailed	terperinci
+764) detailed	terperinci
 
-detect	mengesan
+765) detect	mengesan
 
-determine	tentukan
+766) determine	tentukan
 
-develop	membangun
+767) develop	membangun
 
-developing	membangun
+768) developing	membangun
 
-development	pembangunan
+769) development	pembangunan
 
-device	peranti
+770) device	peranti
 
-devote	menumpukan
+771)devote	menumpukan
 
-dialogue	dialog
+772) dialogue	dialog
 
-dictionary	kamus
+773) dictionary	kamus
 
-did	lakukan
+774) did	lakukan
 
-die	mati
+775) die	mati
 
-diet	diet
+776) diet	diet
 
-differ	berbeza
+777) differ	berbeza
 
-difference	beza
+778) difference	beza
 
-different	berbeza
+779) different	berbeza
 
-differently	berbeza
+780) differently	berbeza
 
-difficult	sukar
+781) difficult	sukar
 
-difficulty	kesukaran
+782) difficulty	kesukaran
 
-dig	menggali
+783) dig	menggali
 
-digital	digital
+784) digital	digital
 
-dimension	dimensi
+785) dimension	dimensi
 
-dining	menjamu selera
+786) dining	menjamu selera
 
-dinner	makan malam
+787) dinner	makan malam
 
-direct	langsung
+788) direct	langsung
 
-direction	arah
+789) direction	arah
 
-directly	secara langsung
+790) directly	secara langsung
 
-director	pengarah
+791) director	pengarah
 
-dirt	kotoran
+792) dirt	kotoran
 
-dirty	kotor
+793) dirty	kotor
 
-disability	kecacatan
+794) disability	kecacatan
 
-disagree	tidak bersetuju
+795) disagree	tidak bersetuju
 
-disappear	hilang
+796) disappear	hilang
 
-disaster	bencana
+797) disaster	bencana
 
-discipline	disiplin
+798) discipline	disiplin
 
-discourse	wacana
+799) discourse	wacana
 
-discover	menemui
+800) discover	menemui
 
-discovery	penemuan
+801) discovery	penemuan
 
-discrimination	diskriminasi
+802) discrimination	diskriminasi
 
-discuss	berbincang
+803) discuss	berbincang
 
-discussion	perbincangan
+804) discussion	perbincangan
 
-disease	penyakit
+805) disease	penyakit
 
-dish	hidangan
+806) dish	hidangan
 
-dismiss	tolak
+807) dismiss	tolak
 
-disorder	gangguan
+808) disorder	gangguan
 
-display	paparan
+809) display	paparan
 
-dispute	pertikaian
+810) dispute	pertikaian
 
-distance	jarak
+811) distance	jarak
 
-distant	jauh
+812) distant	jauh
 
-distinct	tersendiri
+813) distinct	tersendiri
 
-distinction	perbezaan
+814) distinction	perbezaan
 
-distinguish	membezakan
+815) distinguish	membezakan
 
-distribute	mengedarkan
+816) distribute	mengedarkan
 
-distribution	pengedaran
+817) distribution	pengedaran
 
-district	daerah
+818) district	daerah
 
-diverse	pelbagai
+819) diverse	pelbagai
 
-diversity	kepelbagaian
+820) diversity	kepelbagaian
 
-divide	bahagikan
+821) divide	bahagikan
 
-division	pembahagian
+822) division	pembahagian
 
-divorce	penceraian
+823) divorce	penceraian
 
-DNA	DNA
+824) DNA	DNA
 
-do	buat
+825) do	buat
 
-doctor	doktor
+826) doctor	doktor
 
-document	dokumen
+827) document	dokumen
 
-does	tidak
+828) does	tidak
 
-dog	anjing
+829) dog	anjing
 
-dollar	dolar
+830) dollar	dolar
 
+831) domestic	domestik
 
-domestic	domestik
+832) dominant	dominan
 
-dominant	dominan
-
-dominate
+833) dominate
 
