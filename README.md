@@ -2424,1906 +2424,3810 @@ gently	dengan lembut
 German	Jerman
 
 gesture	isyarat
+
 get	dapatkan
+
 ghost	hantu
+
 giant	gergasi
+
 gift	hadiah
+
 gifted	berbakat
+
 girl	perempuan
+
 girlfriend	teman wanita
+
 give	memberi
+
 given	diberi
+
 glad	gembira
+
 glance	sepintas lalu
+
 glass	kaca
+
 global	global
+
 glove	sarung tangan
+
 go	pergi
+
 goal	Matlamat
+
 God	Tuhan
+
 gold	emas
+
 golden	keemasan
+
 golf	golf
+
 gone	hilang
+
 good	baik
+
 got	mendapat
+
 govern	mentadbir
+
 government	kerajaan
+
 governor	gabenor
+
 grab	merebut
+
 grade	gred
+
 gradually	secara beransur-ansur
+
 graduate	graduan
+
 grain	bijirin
+
 grand	hebat
+
 grandfather	datuk
+
 grandmother	nenek
+
 grant	pemberian
+
 grass	rumput
+
 grave	kubur
+
 gray	kelabu
+
 great	hebat
+
 greatest	terhebat
+
 green	hijau
+
 grew	berkembang
+
 grocery	barang runcit
+
 ground	tanah
+
 group	kumpulan
+
 grow	membesar
+
 growing	berkembang
+
 growth	pertumbuhan
+
 guarantee	jaminan
+
 guard	pengawal
+
 guess	meneka
+
 guest	tetamu
+
 guide	panduan
+
 guideline	garis panduan
+
 guilty	bersalah
+
 gun	pistol
+
 guy	lelaki
+
 habit	kebiasaan
+
 habitat	habitat
+
 had	telah
+
 hair	rambut
+
 half	separuh
+
 hall	dewan
+
 hand	tangan
+
 handful	segenggam
+
 handle	mengendalikan
+
 hang	gantung
+
 happen	berlaku
+
 happy	gembira
+
 hard	keras
+
 hardly	hampir tidak
+
 has	mempunyai
+
 hat	topi
+
 hate	benci
+
 have	mempunyai
+
 he	dia
+
 head	kepala
+
 headline	tajuk utama
+
 headquarters	ibu pejabat
+
 health	kesihatan
+
 healthy	sihat
+
 hear	dengar
+
 heard	didengari
+
 hearing	pendengaran
+
 heart	hati
+
 heat	haba
+
 heaven	syurga
+
 heavily	dengan berat
+
 heavy	berat
+
 heel	tumit
+
 height	ketinggian
+
 held	diadakan
+
 helicopter	helikopter
+
 hell	neraka
+
 hello	hello
+
 help	membantu
+
 helpful	membantu
+
 her	dia
-here	di sini
+
+here di sini
+
 heritage	warisan
+
 hero	wira
+
 herself	dirinya
+
 hey	Hey
+
 hi	hai
+
 hide	bersembunyi
+
 high	tinggi
+
 highlight	sorotan
+
 highly	sangat
+
 highway	lebuh raya
+
 hill	bukit
+
 him	dia
+
 himself	dirinya sendiri
+
 hip	pinggul
+
 hire	mengupah
+
 his	miliknya
+
 historian	ahli sejarah
+
 historic	bersejarah
+
 historical	sejarah
+
 history	sejarah
+
 hit	pukul
+
 hold	tahan
+
 hole	lubang
+
 holiday	cuti
+
 holy	suci
+
 home	rumah
+
 homeless	gelandangan
+
 honest	jujur
+
 honey	sayang
+
 honor	penghormatan
+
 hope	harapan
+
 horizon	ufuk
+
 horror	seram
+
 horse	kuda
+
 hospital	hospital
+
 host	tuan rumah
+
 hot	panas
+
 hotel	hotel
+
 hour	jam
+
 house	rumah
+
 household	rumahtangga
+
 housing	perumahan
+
 how	bagaimana
+
 however	walau bagaimanapun
+
 huge	besar
+
 human	manusia
+
 humor	jenaka
+
 hundred	ratus
+
 hungry	lapar
+
 hunt	memburu
+
 hunter	pemburu
+
 hunting	memburu
+
 hurry	cepat
+
 hurt	sakit hati
+
 husband	suami
+
 hypothesis	hipotesis
+
 I	saya
+
 ice	ais
+
 idea	idea
+
 ideal	ideal
+
 identification	pengenalan
+
 identify	mengenalpasti
+
 identity	identiti
+
 ie	iaitu
+
 if	jika
+
 ignore	abai
+
 ill	sakit
+
 illegal	haram
+
 illness	penyakit
+
 illustrate	menggambarkan
+
 image	imej
+
 imagination	imaginasi
+
 imagine	bayangkan
+
 immediate	serta merta
+
 immediately	serta merta
+
 immigrant	pendatang
+
 immigration	imigresen
+
 impact	kesan
+
 implement	melaksanakan
+
 implication	implikasi
+
 imply	membayangkan
+
 importance	kepentingan
+
 important	penting
+
 impose	mengenakan
+
 impossible	mustahil
+
 impress	menarik perhatian
+
 impression	kesan
+
 impressive	mengagumkan
+
 improve	bertambah baik
+
 improvement	penambahbaikan
+
 in	dalam
+
 incentive	insentif
+
 inch	inci
+
 incident	kejadian
+
 include	termasuk
+
 including	termasuk
+
 income	pendapatan
+
 incorporate	menggabungkan
+
 increase	meningkat
+
 increased	meningkat
+
 increasing	semakin meningkat
+
 increasingly	semakin
+
 incredible	luar biasa
+
 indeed	sesungguhnya
+
 independence	kemerdekaan
+
 independent	bebas
+
 index	indeks
+
 Indian	India
+
 indicate	menunjukkan
+
 indication	petunjuk
+
 individual	individu
+
 industrial	perindustrian
+
 industry	industri
+
 infant	bayi
+
 infection	jangkitan
+
 inflation	inflasi
+
 influence	pengaruh
+
 inform	maklumkan
+
 information	maklumat
+
 ingredient	bahan
+
 initial	permulaan
+
 initially	pada mulanya
+
 initiative	inisiatif
+
 injury	kecederaan
+
 inner	dalaman
+
 innocent	tidak bersalah
+
 inquiry	siasatan
+
 insect	serangga
+
 inside	dalam
+
 insight	wawasan
+
 insist	menegaskan
+
 inspire	memberi inspirasi
+
 install	pasang
+
 instance	contoh
+
 instant	segera
+
 instead	sebaliknya
+
 institution	institusi
+
 institutional	institusi
+
 instruction	arahan
+
 instructor	pengajar
+
 instrument	alat
+
 insurance	insurans
+
 intellectual	intelektual
+
 intelligence	kecerdasan
+
 intend	berniat
+
 intense	tegang
+
 intensity	keamatan
+
 intention	niat
+
 interaction	interaksi
+
 interest	minat
+
 interested	berminat
+
 interesting	menarik
+
 internal	dalaman
+
 international	antarabangsa
+
 Internet	Internet
+
 interpret	mentafsir
+
 interpretation	tafsiran
+
 intervention	campur tangan
+
 interview	temuduga
+
 into	ke dalam
+
 introduce	memperkenalkan
+
 introduction	pengenalan
+
 invasion	pencerobohan
+
 invent	mencipta
+
 invest	melabur
+
 investigate	menyiasat
+
 investigation	penyiasatan
+
 investigator	penyiasat
+
 investment	pelaburan
+
 investor	pelabur
+
 invite	jemput
+
 involve	melibatkan
+
 involved	terbabit
+
 involvement	penglibatan
+
 Iraqi	Iraq
+
 Irish	Irish
+
 iron	besi
+
 is	ialah
+
 Islamic	Islamik
+
 island	pulau
+
 Israeli	Israel
+
 issue	isu
+
 it	ia
+
 Italian	Itali
+
 item	item
+
 its	itu
+
 itself	sendiri
+
 jacket	jaket
+
 jail	penjara
+
 Japanese	Jepun
+
 jet	jet
+
 Jew	Yahudi
+
 Jewish	Yahudi
+
 job	pekerjaan
+
 join	sertai
+
 joint	sendi
+
 joke	jenaka
+
 journal	jurnal
+
 journalist	wartawan
+
 journey	perjalanan
+
 joy	kegembiraan
+
 judge	Hakim
+
 judgment	penghakiman
+
 juice	jus
+
 jump	melompat
+
 junior	junior
+
 jury	juri
+
 just	cuma
+
 justice	keadilan
+
 justify	mewajarkan
+
 keep	simpan
+
 kept	disimpan
+
 key	kunci
+
 kick	tendang
+
 kid	nak
+
 kill	bunuh
+
 killer	pembunuh
+
 killing	membunuh
+
 kind	baik hati
+
 king	raja
+
 kiss	ciuman
+
 kitchen	dapur
+
 knee	lutut
-knew	tahu
+
+knew tahu
+
 knife	pisau
+
 knock	ketuk
+
 know	tahu
+
 knowledge	pengetahuan
+
 lab	makmal
+
 label	label
+
 labor	buruh
+
 laboratory	makmal
+
 lack	kekurangan
+
 lady	wanita
+
 lake	tasik
+
 land	tanah
+
 landscape	landskap
+
 language	bahasa
+
 lap	pusingan
+
 large	besar
+
 largely	sebahagian besarnya
+
 last	terakhir
+
 late	lewat
+
 later	nanti
+
 Latin	bahasa Latin
+
 latter	yang terakhir
+
 laugh	ketawa
+
 launch	pelancaran
+
 law	undang-undang
+
 lawn	rumput
+
 lawsuit	tuntutan mahkamah
+
 lawyer	peguam
+
 lay	berbaring
+
 layer	lapisan
+
 lead	memimpin
+
 leader	Ketua
+
 leadership	kepimpinan
+
 leading	mengetuai
+
 leaf	daun
+
 league	liga
+
 lean	kurus
+
 learn	belajar
+
 learning	pembelajaran
+
 least	paling kurang
+
 leather	kulit
+
 leave	pergi
+
 led	dipimpin
+
 left	meninggalkan
+
 leg	kaki
+
 legacy	warisan
+
 legal	sah
+
 legend	lagenda
+
 legislation	perundangan
+
 legitimate	sah
+
 lemon	limau
+
 length	panjang
+
 less	kurang
+
 lesson	pelajaran
+
 let	biarkan
+
 letter	surat
+
 level	tahap
+
 liberal	liberal
+
 library	perpustakaan
+
 license	lesen
+
 lie	berbohong
+
 life	kehidupan
+
 lifestyle	cara hidup
+
 lifetime	seumur hidup
+
 lift	lif
+
 light	ringan
+
 like	suka
+
 likely	berkemungkinan
+
 limit	had
+
 limitation	had
+
 limited	terhad
+
 line	barisan
+
 link	pautan
+
 lip	bibir
+
 liquid	cecair
+
 list	senarai
+
 listen	dengar
+
 literally	secara literal
+
 literary	sastera
+
 literature	sastera
+
 little	sedikit
+
 live	hidup
+
 living	hidup
+
 load	memuatkan
+
 loan	pinjaman
+
 local	tempatan
+
 locate	cari
+
 location	lokasi
+
 lock	kunci
+
 log	log
+
 lone	keseorangan
+
 long	panjang
+
 long-term	jangka panjang
+
 look	tengok
+
 loose	longgar
+
 lose	kalah
+
 loss	kerugian
+
 lost	hilang
+
 lot	banyak
+
 lots	banyak
+
 loud	kuat
+
 love	cinta
+
 lovely	indah
+
 lover	kekasih
+
 low	rendah
+
 lower	lebih rendah
+
 luck	nasib baik
+
 lucky	bertuah
+
 lunch	makan tengah hari
+
 lung	paru-paru
+
 machine	mesin
+
 mad	gila
+
 made	dibuat
+
 magazine	majalah
+
 magnet	magnet
+
 mail	mel
+
 main	utama
+
 mainly	terutamanya
+
 maintain	mengekalkan
+
 maintenance	penyelenggaraan
+
 major	jurusan
+
 majority	majoriti
+
 make	buat
+
 maker	pembuat
+
 makeup	solek
+
 male	lelaki
+
 mall	pusat beli belah
+
 man	lelaki
+
 manage	mengurus
+
 management	pengurusan
+
 manager	pengurus
+
 manner	cara
+
 manufacturer	pengilang
+
 manufacturing	pembuatan
+
 many	ramai
+
 map	peta
+
 margin	margin
+
 mark	tanda
+
 market	pasaran
+
 marketing	Pemasaran
+
 marriage	perkahwinan
+
 married	berkahwin
+
 marry	kahwin
+
 mask	topeng
+
 mass	jisim
+
 massive	besar-besaran
+
 master	tuan
+
 match	perlawanan
+
 material	bahan
+
 math	matematik
+
 matter	perkara
+
 may	mungkin
+
 maybe	mungkin
+
 mayor	Datuk Bandar
+
 me	saya
+
 meal	makan
+
 mean	bermakna
+
 meaning	maksudnya
+
 meant	dimaksudkan
+
 meanwhile	sementara itu
+
 measure	mengukur
+
 measurement	pengukuran
+
 meat	daging
+
 mechanism	mekanisme
+
 media	media
+
 medical	perubatan
+
 medication	ubat-ubatan
+
 medicine	ubat
+
 medium	sederhana
+
 meet	berjumpa
+
 meeting	mesyuarat
+
 melody	melodi
+
 member	ahli
+
 membership	keahlian
+
 memory	ingatan
+
 men	lelaki
+
 mental	mental
+
 mention	menyebut
+
 menu	menu
+
 mere	semata-mata
+
 merely	semata-mata
+
 mess	keadaan huru-hara
+
 message	mesej
+
 metal	logam
+
 meter	meter
+
 method	kaedah
+
 Mexican	Mexico
+
 middle	tengah
+
 might	mungkin
+
 mile	Batu
+
 military	tentera
+
 milk	susu
+
 million	juta
+
 mind	fikiran
+
 mine	saya
+
 minister	Menteri
+
 minor	bawah umur
+
 minority	minoriti
+
 minute	minit
+
 miracle	keajaiban
+
 mirror	cermin
+
 miss	rindu
+
 missile	peluru berpandu
+
 mission	misi
+
 mistake	kesilapan
+
 mix	campurkan
+
 mixture	campuran
+
 mode	mod
+
 model	model
+
 moderate	sederhana
+
 modern	moden
+
 modest	sederhana
+
 molecule	molekul
+
 mom	mak
+
 moment	seketika
+
 money	wang
+
 monitor	pantau
+
 month	bulan
+
 mood	mood
+
 moon	bulan
+
 moral	akhlak
+
 more	lebih
+
 moreover	lebih-lebih lagi
+
 morning	pagi
+
 mortgage	gadai janji
+
 most	paling
+
 mostly	kebanyakannya
+
 mother	ibu
+
 motion	gerakan
+
 motivation	motivasi
+
 motor	motor
+
 mount	lekapkan
+
 mountain	gunung
+
 mouse	tetikus
+
 mouth	mulut
+
 move	bergerak
+
 movement	pergerakan
+
 movie	filem
+
 Mr	Encik
+
 Mrs	Puan
+
 Ms	Cik
+
 much	banyak
+
 multiple	pelbagai
+
 multiply	membiak
+
 murder	pembunuhan
+
 muscle	otot
+
 museum	muzium
+
 music	muzik
+
 musical	muzikal
+
 musician	ahli muzik
+
 Muslim	Muslim
+
 must	mesti
+
 mutual	bersama
+
 my	saya
+
 myself	diri sendiri
+
 mystery	misteri
+
 myth	mitos
+
 naked	telanjang
+
 name	nama
+
 narrative	naratif
+
 narrow	sempit
+
 nation	bangsa
+
 national	Nasional
+
 native	asli
+
 natural	semula jadi
+
 naturally	secara semula jadi
+
 nature	alam semula jadi
+
 near	dekat
+
 nearby	berdekatan
+
 nearly	hampir
+
 necessarily	semestinya
+
 necessary	perlu
+
 neck	leher
+
 need	perlukan
+
 negative	negatif
+
 negotiate	berunding
+
 negotiation	rundingan
+
 neighbor	jiran
+
 neighborhood	kejiranan
+
 neither	tidak juga
+
 nerve	saraf
+
 nervous	gementar
+
 net	jaring
+
 network	rangkaian
+
 never	tidak pernah
+
 nevertheless	namun begitu
+
 new	baru
+
 newly	baru
+
 news	berita
+
 newspaper	surat khabar
+
 next	seterusnya
+
 nice	bagus
+
 night	malam
+
 nine	sembilan
+
 no	tidak
+
 nobody	tiada siapa
+
 nod	angguk
+
 noise	bunyi bising
+
 nomination	pencalonan
+
 none	tiada
+
 nonetheless	walaubagaimanapun
+
 noon	tengah hari
+
 nor	mahupun
+
 normal	biasa
+
 normally	biasalah
+
 north	utara
+
 northern	utara
+
 nose	hidung
+
 not	bukan
+
 note	catatan
+
 nothing	tiada apa
+
 notice	notis
+
 notion	tanggapan
+
 noun	kata nama
+
 novel	novel
+
 now	sekarang
+
 nowhere	entah ke mana
-n’t	tidak
+
+not	tidak
+
 nuclear	nuklear
+
 number	nombor
+
 numeral	angka
+
 numerous	banyak
+
 nurse	jururawat
+
 nut	kacang
+
 object	objek
+
 objective	objektif
+
 obligation	kewajipan
+
 observation	pemerhatian
+
 observe	perhatikan
+
 observer	pemerhati
+
 obtain	memperolehi
+
 obvious	jelas
+
 obviously	jelas sekali
+
 occasion	majlis
+
 occasionally	sesekali
+
 occupation	pekerjaan
+
 occupy	menduduki
+
 occur	berlaku
+
 ocean	laut
+
 odd	ganjil
+
 odds	kemungkinan
+
 of	daripada
+
 off	dimatikan
+
 offense	kesalahan
+
 offensive	menyinggung perasaan
+
 offer	tawaran
+
 office	pejabat
+
 officer	pegawai
+
 official	rasmi
+
 often	selalunya
+
 oh	oh
+
 oil	minyak
+
 ok	okey
+
 okay	baik
+
 old	tua
+
 Olympic	Olimpik
+
 on	pada
+
 once	sekali
+
 one	satu
+
 ongoing	berterusan
+
 onion	bawang besar
+
 online	dalam talian
+
 only	sahaja
+
 onto	ke
+
 open	buka
+
 opening	pembukaan
+
 operate	beroperasi
+
 operating	beroperasi
+
 operation	operasi
+
 operator	pengendali
+
 opinion	pendapat
+
 opponent	lawan
+
 opportunity	peluang
+
 oppose	menentang
+
 opposite	bertentangan
+
 opposition	pembangkang
+
 option	pilihan
+
 or	atau
+
 orange	oren
+
 order	pesanan
+
 ordinary	biasa
+
 organ	organ
+
 organic	organik
+
 organization	organisasi
+
 organize	menyusun
+
 orientation	orientasi
+
 origin	asal usul
+
 original	asal
+
 originally	asalnya
+
 other	lain
+
 others	yang lain
+
 otherwise	sebaliknya
+
 ought	sepatutnya
+
 our	kami
+
 ourselves	diri kita sendiri
+
 out	keluar
+
 outcome	hasil
+
 outside	luar
+
 oven	ketuhar
+
 over	habis
+
 overall	secara keseluruhan
+
 overcome	diatasi
+
 overlook	terlepas pandang
+
 owe	berhutang
+
 own	sendiri
+
 owner	pemilik
+
 oxygen	oksigen
+
 pace	laju
+
 pack	pek
+
 package	pakej
+
 page	muka surat
+
 pain	sakit
+
 painful	pedih
+
 paint	cat
+
 painter	pelukis
+
 painting	melukis
+
 pair	sepasang
+
 pale	pucat
+
 Palestinian	warga Palestin
+
 palm	tapak tangan
+
 pan	kuali
+
 panel	panel
+
 pant	seluar
+
 paper	kertas
+
 paragraph	perenggan
+
 parent	ibu bapa
+
 park	taman
+
 parking	tempat letak kenderaan
+
 part	bahagian
+
 participant	peserta
+
 participate	mengambil bahagian
+
 participation	penyertaan
+
 particular	khususnya
+
 particularly	khususnya
+
 partly	sebahagiannya
+
 partner	pasangan
+
 partnership	perkongsian
+
 party	pesta
+
 pass	lulus
+
 passage	laluan
+
 passenger	penumpang
+
 passion	semangat
+
 past	lalu
+
 patch	tampalan
+
 path	laluan
+
 patient	sabar
+
 pattern	corak
+
 pause	jeda
+
 pay	bayar
+
 payment	bayaran
+
 PC	PC
+
 peace	kedamaian
+
 peak	puncak
+
 peer	rakan sebaya
+
 penalty	penalti
+
 people	orang ramai
+
 pepper	lada
+
 per	per
+
 perceive	mempersepsikan
+
 percentage	peratusan
+
 perception	persepsi
+
 perfect	sempurna
+
 perfectly	dengan sempurna
+
 perform	melaksanakan
+
 performance	prestasi
+
 perhaps	mungkin
+
 period	tempoh
+
 permanent	kekal
+
 permission	kebenaran
+
 permit	izin
-person	orang
+
+person  -  orang
+
 personal	peribadi
+
 personality	personaliti
+
 personally	secara peribadi
+
 personnel	kakitangan
+
 perspective	perspektif
+
 persuade	memujuk
+
 pet	haiwan peliharaan
+
 phase	fasa
+
 phenomenon	fenomena
+
 philosophy	falsafah
+
 phone	telefon
+
 photo	foto
+
 photograph	gambar
+
 photographer	juru gambar
+
 phrase	frasa
+
 physical	fizikal
+
 physically	secara fizikal
+
 physician	doktor
+
 piano	piano
+
 pick	pilih
+
 picture	gambar
+
 pie	pai
+
 piece	sekeping
+
 pile	longgokan
+
 pilot	juruterbang
+
 pine	pain
+
 pink	merah jambu
+
 pipe	paip
+
 pitch	padang
+
 place	tempat
+
 plain	kosong
+
 plan	rancangan
+
 plane	kapal terbang
+
 planet	planet
+
 planning	perancangan
+
 plant	tumbuhan
+
 plastic	plastik
+
 plate	pinggan
+
 platform	platform
+
 play	bermain
+
 player	pemain
+
 please	tolonglah
+
 pleasure	kesenangan
+
 plenty	banyak
+
 plot	plot
+
 plural	majmuk
+
 plus	tambah lagi
+
 PM	PM
+
 pocket	poket
+
 poem	syair
+
 poet	penyair
+
 poetry	syair
+
 point	titik
+
 pole	tiang
+
 police	polis
+
 policy	dasar
+
 political	politik
+
 politically	dari segi politik
+
 politician	ahli politik
+
 politics	politik
+
 poll	tinjauan pendapat
+
 pollution	pencemaran
+
 pool	kolam
+
 poor	miskin
+
 pop	pop
+
 popular	popular
+
 populate	populasi
+
 population	penduduk
+
 porch	beranda
+
 port	pelabuhan
+
 portion	bahagian
+
 portrait	potret
+
 portray	menggambarkan
+
 pose	bergambar
+
 position	kedudukan
+
 positive	positif
+
 possess	memiliki
+
 possibility	kemungkinan
+
 possible	mungkin
+
 possibly	kemungkinan
+
 post	jawatan
+
 pot	periuk
+
 potato	kentang
+
 potential	potensi
+
 potentially	berpotensi
+
 pound	pon
+
 pour	tuangkan
+
 poverty	kemiskinan
+
 powder	serbuk
+
 power	kuasa
+
 powerful	berkuasa
+
 practical	praktikal
+
 practice	berlatih
+
 pray	berdoa
+
 prayer	solat
+
 precisely	dengan tepat
+
 predict	meramalkan
+
 prefer	lebih suka
+
 preference	pilihan
+
 pregnancy	kehamilan
+
 pregnant	mengandung
+
 preparation	persiapan
+
 prepare	sediakan
+
 prescription	preskripsi
+
 presence	kehadiran
+
 present	hadir
+
 presentation	pembentangan
+
 preserve	memelihara
+
 president	presiden
+
 presidential	presiden
+
 press	tekan
+
 pressure	tekanan
+
 pretend	berpura-pura
+
 pretty	cantik
+
 prevent	mencegah
+
 previous	sebelumnya
+
 previously	sebelum ini
+
 price	harga
+
 pride	kebanggaan
+
 priest	imam
+
 primarily	terutamanya
+
 primary	utama
+
 prime	perdana
+
 principal	pengetua
+
 principle	prinsip
+
 print	cetak
+
 prior	sebelum
+
 priority	keutamaan
+
 prison	penjara
+
 prisoner	banduan
+
 privacy	privasi
+
 private	persendirian
+
 probable	berkemungkinan
+
 probably	mungkin
+
 problem	masalah
+
 procedure	prosedur
+
 proceed	teruskan
+
 process	proses
+
 produce	menghasilkan
+
 producer	penerbit
+
 product	produk
+
 production	pengeluaran
+
 profession	profesion
+
 professional	profesional
+
 professor	profesor
+
 profile	profil
+
 profit	keuntungan
+
 program	program
+
 progress	kemajuan
+
 project	projek
+
 prominent	menonjol
+
 promise	janji
+
 promote	mempromosikan
+
 prompt	segera
+
 proof	bukti
+
 proper	betul
+
 properly	dengan betul
+
 property	harta benda
+
 proportion	perkadaran
+
 proposal	cadangan
+
 propose	mencadang
+
 proposed	dicadangkan
+
 prosecutor	pendakwa raya
+
 prospect	prospek
+
 protect	melindungi
+
 protection	perlindungan
+
 protein	protein
+
 protest	bantahan
+
 proud	bangga
+
 prove	buktikan
+
 provide	menyediakan
+
 provider	pembekal
+
 province	wilayah
+
 provision	peruntukan
+
 psychological	psikologi
+
 psychologist	ahli psikologi
+
 psychology	psikologi
+
 public	awam
+
 publication	penerbitan
+
 publicly	secara terbuka
+
 publish	menerbitkan
+
 publisher	penerbit
+
 pull	tarik
+
 punishment	hukuman
+
 purchase	pembelian
+
 pure	tulen
+
 purpose	tujuan
+
 pursue	kejar
+
 push	menolak
+
 put	letak
+
 qualify	layak
+
 quality	kualiti
+
 quart	kuar
+
 quarter	suku
+
 quarterback	quarterback
+
 question	soalan
+
 quick	cepat
+
 quickly	cepat
+
 quiet	senyap
+
 quietly	secara senyap-senyap
+
 quit	berhenti
+
 quite	agak
+
 quote	petikan
+
 quotient	quotient
+
 race	bangsa
+
 racial	kaum
+
 radical	radikal
+
 radio	radio
+
 rail	kereta api
+
 rain	hujan
+
 raise	menaikkan
+
 ran	berlari
+
 range	julat
+
 rank	pangkat
+
 rapid	pantas
+
 rapidly	dengan pantas
+
 rare	jarang
+
 rarely	jarang
+
 rate	kadar
+
 rather	sebaliknya
+
 rating	penilaian
+
 ratio	nisbah
+
 raw	mentah
+
 reach	capai
+
 react	bertindak
+
 reaction	tindak balas
+
 read	membaca
+
 reader	pembaca
+
 reading	membaca
+
 ready	sedia
+
 real	sebenar
+
 reality	realiti
+
 realize	sedar
+
 really	sungguh
+
 reason	sebab
+
 reasonable	munasabah
+
 recall	ingat balik
+
 receive	menerima
+
 recent	baru-baru ini
+
 recently	baru-baru ini
+
 recipe	resepi
+
 recognition	pengiktirafan
+
 recognize	mengenali
+
 recommend	mengesyorkan
+
 recommendation	cadangan
+
 record	rekod
+
 recording	rakaman
+
 recover	pulih
+
 recovery	pemulihan
+
 recruit	rekrut
+
 red	merah
+
 reduce	kurangkan
+
 reduction	pengurangan
+
 refer	rujuk
+
 reference	rujukan
+
 reflect	merenung
+
 reflection	refleksi
+
 reform	pembaharuan
+
 refugee	pelarian
+
 refuse	menolak
+
 regard	hormat
+
 regarding	mengenai
+
 regardless	tanpa mengira
+
 regime	rejim
+
 region	wilayah
+
 regional	serantau
+
 register	mendaftar
+
 regular	biasa
+
 regularly	secara teratur
+
 regulate	mengawal selia
+
 regulation	peraturan
+
 reinforce	mengukuhkan
+
 reject	menolak
+
 relate	kaitkan
+
 relation	perhubungan
+
 relationship	perhubungan
+
 relative	relatif
+
 relatively	secara relatifnya
+
 relax	berehat
+
 release	lepaskan
+
 relevant	relevan
+
 relief	kelegaan
+
 religion	agama
+
 religious	keagamaan
+
 rely	bergantung harap
+
 remain	kekal
+
 remaining	yang tinggal
+
 remarkable	luar biasa
+
 remember	ingat
+
 remind	ingatkan
+
 remote	jauh
+
 remove	keluarkan
+
 repeat	ulang
+
 repeatedly	berulang kali
+
 replace	menggantikan
+
 reply	balas
+
 report	laporan
+
 reporter	wartawan
+
 represent	mewakili
+
 representation	perwakilan
+
 representative	wakil
+
 Republican	Republikan
+
 reputation	reputasi
+
 request	permintaan
+
 require	memerlukan
+
 requirement	keperluan
+
 research	penyelidikan
+
 researcher	penyelidik
+
 resemble	menyerupai
+
 reservation	tempahan
+
 resident	pemastautin
+
 resist	melawan
+
 resistance	rintangan
+
 resolution	resolusi
+
 resolve	azam
+
 resort	tempat peranginan
+
 resource	sumber
+
 respect	hormat
+
 respond	membalas
+
 respondent	responden
+
 response	tindak balas
+
 responsibility	tanggungjawab
+
 responsible	bertanggungjawab
+
 rest	berehat
+
 restaurant	restoran
+
 restore	memulihkan
+
 restriction	sekatan
+
 result	hasil
+
 retain	mengekalkan
+
 retire	bersara
+
 retirement	persaraan
+
 return	kembali
+
 reveal	mendedahkan
+
 revenue	hasil
+
 review	semakan
+
 revolution	revolusi
+
 rhythm	irama
+
 rice	nasi
+
 rich	kaya raya
+
 rid	menyingkirkan
+
 ride	menaiki
+
 rifle	senapang
+
 right	betul
+
 ring	cincin
+
 rise	bangkit
+
 risk	risiko
+
 river	sungai
+
 road	jalan raya
+
 rock	batu
+
 role	peranan
+
 roll	gulung
+
 romantic	romantik
+
 roof	bumbung
+
 room	bilik
+
 root	akar
+
 rope	tali
+
 rose	mawar
+
 rough	kasar
+
 roughly	secara kasarnya
+
 round	bulat
+
 route	laluan
+
 routine	rutin
+
 row	barisan
+
 rub	gosok
+
 rule	peraturan
+
 run	lari
+
 running	berlari
+
 rural	luar bandar
+
 rush	tergesa-gesa
+
 Russian	bahasa Rusia
+
 sacred	suci
+
 sad	sedih
+
 safe	selamat
+
 safety	keselamatan
+
 said	berkata
+
 sail	belayar
+
 sake	demi
+
 salad	salad
+
 salary	gaji
+
 sale	jualan
+
 sales	jualan
+
 salt	garam
+
 same	sama
+
 sample	sampel
+
 sanction	sanksi
+
 sand	pasir
+
 sat	duduk
+
 satellite	satelit
+
 satisfaction	kepuasan
+
 satisfy	memuaskan
+
 sauce	sos
+
 save	jimat
+
 saving	penjimatan
+
 saw	melihat
+
 say	katakan
+
 scale	skala
+
 scandal	skandal
+
 scared	takut
+
 scenario	senario
+
 scene	tempat kejadian
+
 schedule	jadual
+
 scheme	skim
+
 scholar	ulama
+
 scholarship	biasiswa
+
 school	sekolah
+
 science	sains
+
 scientific	saintifik
+
 scientist	ahli sains
+
 scope	skop
+
 score	skor
+
 scream	menjerit
+
 screen	skrin
+
 script	skrip
+
 sea	laut
+
 search	cari
+
 season	musim
+
 seat	tempat duduk
+
 second	kedua
+
 secret	rahsia
+
 secretary	setiausaha
+
 section	bahagian
+
 sector	sektor
+
 secure	selamat
+
 security	keselamatan
+
 see	lihat
+
 seed	benih
+
 seek	mencari
+
 seem	nampak
+
 segment	segmen
+
 seize	rampas
+
 select	pilih
+
 selection	pemilihan
+
 self	diri sendiri
+
 sell	jual
+
 Senate	Senat
+
 senator	senator
+
 send	hantar
+
 senior	senior
+
 sense	rasa
+
 sensitive	sensitif
+
 sent	dihantar
+
 sentence	ayat
+
 separate	berasingan
+
 sequence	urutan
+
 series	siri
+
 serious	serius
+
 seriously	dengan serius
+
 serve	hidang
+
 service	perkhidmatan
+
 session	sesi
+
 set	ditetapkan
+
 setting	tetapan
+
 settle	settle
+
 settlement	penyelesaian
+
 seven	tujuh
+
 several	beberapa
+
 severe	teruk
+
 sex	seks
+
 sexual	seksual
+
 shade	teduh
+
 shadow	bayang
+
 shake	goncang
+
 shall	hendaklah
+
 shape	bentuk
+
 share	kongsi
+
 sharp	tajam
+
 she	dia
+
 sheet	lembaran
+
 shelf	rak
+
 shell	cangkerang
+
 shelter	tempat perlindungan
+
 shift	syif
+
 shine	bersinar
+
 ship	kapal
+
 shirt	baju raya
+
 shit	sial
+
 shock	terkejut
+
 shoe	kasut
+
 shoot	tembak
+
 shooting	menembak
+
 shop	kedai
+
 shopping	membeli belah
+
 shore	Pantai
+
 short	pendek
+
 shortly	sebentar lagi
+
 shot	tembakan
+
 should	sepatutnya
+
 shoulder	bahu
+
 shout	jerit
+
 show	tunjuk
+
 shower	mandi
+
 shrug	angkat bahu
+
 shut	tutup
+
 sick	sakit
+
 side	sebelah
+
 sigh	mengeluh
+
 sight	penglihatan
+
 sign	tanda
+
 signal	isyarat
+
 significance	kepentingan
+
 significant	ketara
+
 significantly	dengan ketara
+
 silence	senyap
+
 silent	senyap
+
 silver	perak
+
 similar	serupa
+
 similarly	serupa
+
 simple	ringkas
+
 simply	secara ringkas
+
 sin	dosa
+
 since	sejak
+
 sing	menyanyi
+
 singer	penyanyi
+
 single	bujang
+
 sink	tenggelam
+
 sir	tuan
+
 sister	kakak
+
 sit	duduk
+
 site	tapak
+
 situation	keadaan
+
 six	enam
+
 size	saiz
+
 ski	ski
+
 skill	kemahiran
+
 skin	kulit
+
+
 sky	langit
+
 slave	hamba
+
 sleep	tidur
+
 slice	hirisan
+
 slide	gelongsor
+
 slight	sedikit
+
 slightly	sedikit
+
 slip	tergelincir
+
 slow	lambat
+
 slowly	perlahan-lahan
+
 small	kecil
+
 smart	pintar
+
 smell	bau
+
 smile	senyum
+
 smoke	asap
+
 smooth	licin
+
 snap	sentap
+
 snow	salji
+
 so	jadi
+
 so-called	kononnya
+
 soccer	bola sepak
+
 social	sosial
+
 society	masyarakat
+
 soft	lembut
+
 software	perisian
+
 soil	tanah
+
 solar	suria
+
 soldier	askar
+
 solid	padu
+
 solution	penyelesaian
+
 solve	selesaikan
+
 some	beberapa
+
 somebody	seseorang
+
 somehow	entah bagaimana
+
 someone	seseorang
+
 something	sesuatu
+
 sometimes	kadang-kadang
+
 somewhat	agaknya
+
 somewhere	di suatu tempat
+
 son	anak lelaki
+
 song	lagu
+
 soon	tidak lama lagi
+
 sophisticated	canggih
+
 sorry	maaf
+
 sort	menyusun
+
 soul	jiwa
+
 sound	bunyi
+
 soup	sup
+
 source	sumber
+
 south	selatan
+
 southern	selatan
+
 Soviet	Soviet
+
 space	angkasa lepas
+
 Spanish	bahasa Sepanyol
+
 speak	bercakap
+
 speaker	pembesar suara
+
 special	istimewa
+
 specialist	pakar
+
 species	spesis
+
 specific	khusus
+
 specifically	secara khusus
+
 speech	ucapan
+
 speed	kelajuan
+
 spell	mengeja
+
 spend	berbelanja
+
 spending	perbelanjaan
+
 spin	berputar
+
 spirit	semangat
+
 spiritual	rohaniah
+
 split	berpecah
+
 spoke	bercakap
+
 spokesman	jurucakap
+
 sport	sukan
+
 spot	tempat
+
 spread	sebar
+
 spring	musim bunga
+
 square	segi empat sama
+
 squeeze	memerah
+
 stability	kestabilan
+
 stable	stabil
+
 staff	kakitangan
+
 stage	pentas
+
 stair	tangga
+
 stake	pancang
+
 stand	berdiri
+
 standard	standard
+
 standing	berdiri
+
 star	bintang
+
 stare	merenung
+
 start	mulakan
+
 state	negeri
+
 statement	kenyataan
+
 station	stesen
+
 statistics	perangkaan
+
 status	status
+
 stay	tinggal
+
 stead	steady
+
 steady	mantap
+
 steal	mencuri
+
 steam	wap
+
 steel	keluli
+
 step	langkah
+
 stick	tongkat
+
 still	masih
+
 stir	kacau
+
 stock	stok
+
 stomach	perut
+
 stone	batu
+
 stood	berdiri
+
 stop	berhenti
+
 storage	penyimpanan
+
 store	kedai
+
 storm	ribut
+
 story	cerita
+
 straight	lurus
+
 strange	pelik
+
 stranger	orang asing
+
 strategic	strategik
+
 strategy	strategi
+
 stream	aliran
+
 street	jalan
+
 strength	kekuatan
+
 strengthen	menguatkan
+
 stress	tekanan
+
 stretch	regangan
+
 strike	mogok
+
 string	tali
+
 strip	jalur
+
 stroke	strok
+
 strong	kuat
+
 strongly	dengan kuat
+
 structure	struktur
+
 struggle	perjuangan
+
 student	pelajar
+
 studio	studio
+
 study	belajar
+
 stuff	barangan
+
 stupid	bodoh
+
 style	gaya
+
 subject	subjek
+
 submit	serahkan
+
 subsequent	seterusnya
+
 substance	bahan
+
 substantial	substansial
+
 subtract	tolak
+
 succeed	berjaya
+
 success	kejayaan
+
 successful	berjaya
+
 successfully	dengan jayanya
+
 such	sebegitu
+
 sudden	mengejut
+
 suddenly	tiba-tiba
+
 sue	saman
+
 suffer	menderita
+
 sufficient	mencukupi
+
 suffix	akhiran
+
 sugar	gula
+
 suggest	cadangkan
+
 suggestion	cadangan
+
 suicide	bunuh diri
+
 suit	sesuai
+
 summer	musim panas
+
 summit	sidang kemuncak
+
 sun	matahari
+
 super	hebat
+
 supply	bekalan
+
 support	sokongan
+
 supporter	penyokong
+
 suppose	andaikan
+
 supposed	sepatutnya
+
 Supreme	Agung
+
 sure	pasti
+
 surely	pasti
+
 surface	permukaan
+
 surgery	pembedahan
+
 surprise	kejutan
+
 surprised	terkejut
+
 surprising	menghairankan
+
 surprisingly	mengejutkan
+
 surround	mengelilingi
+
 survey	tinjauan
+
 survival	kelangsungan hidup
+
 survive	bertahan
+
 survivor	yang terselamat
+
 suspect	suspek
+
 sustain	mengekalkan
+
 swear	bersumpah
+
 sweep	menyapu
+
 sweet	manis
+
 swim	berenang
+
 swing	hayun
+
 switch	suis
+
 syllable	suku kata
+
 symbol	simbol
+
 symptom	gejala
+
 system	sistem
+
 table	meja
+
 tablespoon	sudu besar
+
 tactic	taktik
+
 tail	ekor
+
 take	ambil
+
 tale	kisah
+
 talent	bakat
+
 talk	bercakap
+
 tall	tinggi
+
 tank	tangki
+
 tap	ketuk
+
 tape	pita
+
 target	sasaran
+
 task	tugasan
+
 taste	rasa
+
 tax	cukai
+
 taxpayer	pembayar cukai
+
 tea	teh
+
 teach	mengajar
+
 teacher	cikgu
+
 teaching	mengajar
+
 team	pasukan
+
 tear	koyak
+
 teaspoon	sudu teh
+
 technical	teknikal
+
 technique	teknik
+
 technology	teknologi
+
 teen	remaja
+
 teenager	remaja
+
 teeth	gigi
+
 telephone	telefon
+
 telescope	teleskop
+
 television	televisyen
+
 tell	beritahu
+
 temperature	suhu
+
 temporary	Sementara
+
 ten	sepuluh
+
 tend	cenderung
+
 tendency	kecenderungan
+
 tennis	tenis
+
 tension	ketegangan
+
 tent	khemah
+
 term	istilah
+
 terms	syarat
+
 terrible	dahsyat
+
 territory	wilayah
+
 terror	terror
+
 terrorism	keganasan
+
 terrorist	pengganas
+
 test	ujian
+
 testify	memberi keterangan
+
 testimony	kesaksian
+
 testing	ujian
+
 text	teks
+
 than	daripada
+
 thank	terima kasih
+
 thanks	terima kasih
+
 that	itu
+
 the	yang
+
 theater	teater
+
 their	mereka
+
 them	mereka
+
 theme	tema
+
 themselves	diri mereka sendiri
+
 then	kemudian
+
 theory	teori
+
 therapy	terapi
+
 there	di sana
+
 therefore	Oleh itu
+
 these	ini
+
 they	mereka
+
 thick	tebal
+
 thin	nipis
+
 thing	benda
+
 think	fikir
+
 thinking	berfikir
+
 third	ketiga
+
 thirty	tiga puluh
+
 this	ini
+
 those	mereka
+
 though	walaupun
+
 thought	terfikir
+
 thousand	ribu
+
 threat	ancaman
+
 threaten	mengancam
+
 three	tiga
+
 throat	tekak
+
 through	melalui
+
 throughout	melalui
+
 throw	melontar
+
 thus	dengan demikian
+
 ticket	tiket
+
 tie	tali leher
+
 tight	ketat
+
 time	masa
+
 tiny	kecik
+
 tip	tip
+
 tire	tayar
+
 tired	penat
+
 tissue	tisu
+
 title	tajuk
+
 to	kepada
+
 tobacco	tembakau
+
 today	hari ini
+
 toe	jari kaki
+
 together	bersama-sama
+
 told	memberitahu
+
 tomato	tomato
+
 tomorrow	esok
+
 tone	nada
+
 tongue	lidah
+
 tonight	malam ini
+
 too	juga
+
 took	mengambil
+
 tool	alat
+
 tooth	gigi
+
 top	atas
+
 topic	topik
+
 toss	lambung
+
 total	jumlah
+
 totally	sama sekali
+
 touch	sentuh
+
 tough	lasak
+
 tour	lawatan
+
 tourist	pelancong
+
 tournament	kejohanan
+
 toward	ke arah
+
 towards	ke arah
+
 tower	menara
+
 town	bandar
+
 toy	mainan
+
 trace	jejak
+
 track	trek
+
 trade	perdagangan
-tradition	tradisi
+
+tradition	tradisin
+
 traditional	tradisional
+
 traffic	lalu lintas
+
 tragedy	tragedi
+
 trail	jejak
+
 train	kereta api
+
 training	latihan
+
 transfer	pemindahan
+
 transform	mengubah
+
 transformation	transformasi
+
 transition	peralihan
+
 translate	menterjemah
+
 transportation	pengangkutan
+
 travel	melancong
+
 treat	merawat
+
 treatment	rawatan
+
 treaty	perjanjian
+
 tree	pokok
+
 tremendous	luar biasa
+
 trend	trend
+
 trial	perbicaraan
+
 triangle	segi tiga
+
 tribe	suku kaum
+
 trick	tipu helah
+
 trip	perjalanan
+
 troop	tentera
+
 trouble	masalah
+
 truck	lori
+
 truly	sungguh
+
 trust	amanah
+
 truth	kebenaran
+
 try	cubalah
+
 tube	tiub
+
 tunnel	terowong
+
 turn	pusing
+
 TV	TV
+
 twelve	dua belas
+
 twenty	dua puluh
+
 twice	dua kali
+
 twin	kembar
+
 two	dua
+
 type	menaip
+
 typical	tipikal
+
 typically	biasanya
+
 ugly	hodoh
+
 ultimate	muktamad
+
 ultimately	akhirnya
+
 unable	tak mampu
+
 uncle	pakcik
+
 under	bawah
+
 undergo	menjalani
+
 understand	faham
+
 understanding	persefahaman
+
 unfortunately	malangnya
+
 uniform	seragam
+
 union	kesatuan
+
 unique	unik
+
 unit	unit
+
 United	Bersatu
+
 universal	universal
+
 universe	Alam semesta
+
 university	universiti
+
 unknown	tidak diketahui
+
 unless	melainkan
+
 unlike	tidak seperti
+
 unlikely	tidak mungkin
+
 until	sehingga
+
 unusual	luar biasa
+
 up	naik
+
 upon	atas
+
 upper	atas
+
 urban	bandar
+
 urge	mendesak
+
 us	kami
+
 use	guna
+
 used	digunakan
+
 useful	berguna
+
 user	pengguna
+
 usual	biasalah
+
 usually	selalunya
+
 utility	utiliti
+
 vacation	bercuti
+
 valley	lembah
+
 valuable	berharga
+
 value	nilai
+
 variable	pembolehubah
+
 variation	variasi
+
 variety	pelbagai
+
 various	pelbagai
+
 vary	berbeza-beza
+
 vast	luas
+
 vegetable	sayur
+
 vehicle	kenderaan
+
 venture	usaha
+
 verb	kata kerja
+
 version	versi
+
 versus	lawan
+
 very	sangat
+
 vessel	kapal
+
 veteran	veteran
+
 via	melalui
+
 victim	mangsa
+
 victory	kemenangan
+
 video	video
+
 view	pandangan
+
 viewer	penonton
+
 village	kampung
+
 violate	melanggar
+
 violation	pelanggaran
+
 violence	keganasan
+
 violent	ganas
+
 virtually	secara maya
+
 virtue	kebajikan
-virus	virus
+
+virus	virus/covid
+
 visible	nampak
+
 vision	penglihatan
+
 visit	melawat
+
 visitor	pelawat
+
 visual	visual
+
 vital	penting
+
 voice	suara
+
 volume	isipadu
+
 volunteer	sukarelawan
+
 vote	mengundi
+
 voter	pengundi
+
 vowel	huruf vokal
-vs	lwn
+
+vs	vs
+
 vulnerable	terdedah
+
 wage	upah
+
 wait	tunggu
+
 wake	bangun
+
 walk	Jalan
+
 wall	dinding
+
 wander	merayau
+
 want	mahu
+
 war	peperangan
+
 warm	hangat
+
 warn	memberi amaran
+
 warning	amaran
+
 was	adalah
+
 wash	basuh
+
 waste	membazir
+
 watch	menonton
+
 water	air
+
 wave	gelombang
+
 way	cara
+
 we	kita
+
 weak	lemah
+
 wealth	kekayaan
+
 wealthy	kaya raya
+
 weapon	senjata
+
 wear	pakai
+
 weather	cuaca
+
 wedding	perkahwinan
+
 week	minggu
+
 weekend	hujung minggu
+
 weekly	setiap minggu
+
 weigh	timbang
+
 weight	berat badan
+
 welcome	selamat datang
+
 welfare	kebajikan
+
 well	baiklah
+
 went	pergi
+
 were	adalah
+
 west	barat
+
 western	barat
+
 wet	basah
+
 what	apa
+
 whatever	apa-apa sahajalah
+
 wheel	roda
+
 when	bila
+
 whenever	bila-bila masa
+
 where	di mana
+
 whereas	sedangkan
+
 whether	sama ada
+
 which	yang
+
 while	sementara
+
 whisper	berbisik
+
 white	putih
+
 who	who
+
 whole	keseluruhan
+
 whom	siapa
+
 whose	yang
+
 why	kenapa
+
 wide	luas
+
 widely	secara meluas
+
 widespread	meluas
+
 wife	isteri
+
 wild	liar
+
 will	kehendak
+
 willing	sanggup
+
 win	menang
+
 wind	angin
+
 window	tingkap
+
 wine	wain
+
 wing	sayap
+
 winner	pemenang
+
 winter	musim sejuk
+
 wipe	lap
+
 wire	wayar
+
 wisdom	kebijaksanaan
+
 wise	bijak
+
 wish	keinginan
+
 with	dengan
+
 withdraw	menarik diri
+
 within	dalam
+
 without	tanpa
+
 witness	saksi
+
 woman	perempuan
+
 women	perempuan
+
 won’t	tidak akan
+
 wonder	tertanya-tanya
+
 wonderful	indah
+
 wood	kayu
+
 wooden	kayu
+
 word	perkataan
+
 work	kerja
+
 worker	pekerja
+
 working	bekerja
+
 works	berfungsi
+
 workshop	bengkel
+
 world	dunia
+
 worried	risau
+
 worry	risau
+
 worth	bernilai
+
 would	akan
+
 wound	luka
+
 wrap	bungkus
+
 write	menulis
+
 writer	penulis
+
 writing	menulis
+
 written	bertulis
+
 wrong	salah
+
 wrote	menulis
+
 yard	halaman rumah
+
 yeah	Yeah
+
 year	tahun
+
 yell	jerit
+
 yellow	kuning
+
 yes	ya
+
 yesterday	semalam
+
 yet	belum lagi
+
 yield	hasil
+
 you	awak
+
 young	muda
+
 your	awak
+
 yours	milik anda
+
 yourself	diri sendiri
+
 youth	belia
+
 zone	Kawasan
+
 zoology	zoologi
+
 zoo	zoo
+
 zombie	zombi
+
 zoom	zum
