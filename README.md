@@ -941,4 +941,82 @@ a)
 
 461) chinese  -  cina  -  中国人
 
-462) 
+462) chip  -  cip  -  芯片, 片 
+
+463) chocolate  -  coklat  -  巧克力
+
+464) choice  -  pilihan  -  选择 ( you have the choice to choose )
+
+465) cholesterol  -  kolesterol  -  胆固醇 ( you can use on someone who is fat and a fatties face like << your cholesterol are too high >> )
+
+466) choose  -  pilih  -  选择
+
+467) chord  -  kord  -  弦 ( well this seem doesn't use in life so skip )
+
+468) christian  -  kristian  -  基督教 ( this one use in religion )
+
+469) christmas  -  krismas  -  圣诞节 
+
+470) church  -  gereja  -  教会, 教堂
+
+471) cigarette  -  rokok  -  香烟 ( if you see someone who's smoking with a cigarette, you better not smoke/suck )
+
+472) circle  -  bulatan  -  圆圈
+
+473) circumstance  -  keadaan  -  环境 ( you can also use environment if you want to becus it the same meaning )
+
+474) cite  -  memetik  -  引用 ( this word is mean your shadow ability no it more mean your quirk )
+
+475) citizen  -  warganegara  -  公民
+
+476) city  -  bandar  -  城市
+
+477) civil  -  awam  -  民事的
+
+478) civilian  -  orang awam  -  平民, 平民百姓
+
+479) claim  -  tuntutan  -  宣称
+
+480) class  -  kelas  -  班级
+
+481) classic  -  klasik  -  经典的
+
+482) classroom  -  bilik darjah  -  课堂
+
+483) clean  -  bersih  -  干净的, 干净
+
+484) clear  -  jalas  -  清除, 清 ( you can use on minecraft /clear command you can use on real life )
+
+485) clearly  -  dengan jelas  -  清楚地, 清楚
+
+486) client  -  pelanggan  -  客户
+
+487) climate  -  iklim  -  气候
+
+488) climb  -  mendaki  -  爬
+
+489) clinic  -  klinik  -  诊所
+
+490) clinical  -  klinikal  -  临床
+
+491) clock  -  jam  -  时钟
+
+492) close  -  dekat  -  关闭, 关
+
+493) closely  -  rapat  -  密切
+
+494) closer  -  lebih dekat  -  更近
+
+495) clothe  -  pakaian  -  衣服
+
+496) clothes  -  pakaian  -  衣服
+
+497) clothing  -  pakaian  -  衣服
+
+498) cloud  -  awan  -  云
+
+499) club  -  kelab  -  俱乐部
+
+500) clue  -  petunjuk  -  线索
+
+501) 
