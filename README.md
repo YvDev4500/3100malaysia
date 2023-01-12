@@ -6120,7 +6120,7 @@ winner	pemenang
 
 winter	musim sejuk
 
-wipe	lap
+wipe	lap/mengelap
 
 wire	wayar
 
