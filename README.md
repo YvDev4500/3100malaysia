@@ -15,7 +15,7 @@ i'm the only one, i'm the only one, no matter how hard it is or how hard it get,
 
 -- after you have learn something just type any emoji you want so that will prove you have learn it and know the word meaning knowledge. 
 
---2023 january 17 21:06: i hope i have that spicy eyes feeling, tired lazi and spirit energy to learn again, clean mind is like a blackhole and think mind own creating everything (whitehole) exercise before learning create a sound and a galaxy space 
+--2023 january 17 21:06: i hope i have that spicy eyes feeling, tired lazi and spirit energy to learn again, clean mind is like a blackhole and think mind own creating everything (whitehole) exercise before learning create a sound and a galaxy space, when learning eat some fruit than study
 there are A - Z malay word 
 
 a)
