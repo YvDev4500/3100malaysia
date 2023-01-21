@@ -1686,153 +1686,153 @@ a)
 
 833) dominate  -  menguasai  -  
 
-don’t	jangan
+834) don’t	jangan
 
-done	selesai
+835) done	selesai
 
-door	pintu
+836) door	pintu
 
-doubt	keraguan
+837) doubt	keraguan
 
-doubt	keraguan
+838) doubt	keraguan
 
-down	turun
+839) down	turun
 
-downtown	pusat bandar
+840) downtown	pusat bandar
 
-dozen	sedozen
+841) dozen	sedozen
 
-draft	draf
+842) draft	draf
 
-drag	seret
+843) drag	seret
 
-drama	drama
+844) drama	drama
 
-dramatic	dramatik
+845) dramatic	dramatik
 
-dramatically	secara dramatik
+846) dramatically	secara dramatik
 
-draw	melukis
+847) draw	melukis
 
-drawing	melukis
+848) drawing	melukis
 
-dream	mimpi
+849) dream	mimpi
 
-dress	berpakaian
+850) dress	berpakaian
 
-drink	minum
+851) drink	minum
 
-drive	memandu
+852) drive	memandu
 
-driver	pemandu
+853) driver	pemandu
 
-drop	jatuhkan
+854) drop	jatuhkan
 
-drug	dadah
+855) drug	dadah
 
-dry	kering
+856) dry	kering
 
-duck	itik
+857) duck	itik
 
-due	kerana
+858) due	kerana
 
-during	semasa
+859) during	semasa
 
-dust	habuk
+860) dust	habuk
 
-duty	kewajipan
+861) duty	kewajipan
 
-each	setiap satu
+862) each	setiap satu
 
-eager	bersemangat
+863) eager	bersemangat
 
-ear	telinga
+864) ear	telinga
 
-early	awal
+865) early	awal
 
-earn	peroleh
+866) earn	peroleh
 
-earnings	pendapatan
+867) earnings	pendapatan
 
-earth	bumi
+868) earth	bumi
 
-ease	memudahkan
+869) ease	memudahkan
 
-easily	dengan mudah
+870) easily	dengan mudah
 
-east	timur
+871) east	timur
 
-eastern	timur
+872) eastern	timur
 
-easy	mudah
+873) easy	mudah
 
-eat	makan
+874) eat	makan
 
-economic	ekonomi
+875) economic	ekonomi
 
-economics	ekonomi
+876) economics	ekonomi
 
-economist	ahli ekonomi
+877) economist	ahli ekonomi
 
-economy	ekonomi
+878) economy	ekonomi
 
-edge	hujung
+879) edge	hujung
 
-edition	edisi
+880) edition	edisi
 
-editor	editor
+881) editor	editor
 
-educate	mendidik
+882) educate	mendidik
 
-education	pendidikan
+883) education	pendidikan
 
-educational	pendidikan
+884) educational	pendidikan
 
-educator	pendidik
+885) educator	pendidik
 
-effect	kesan
+886) effect	kesan
 
-effective	berkesan
+887) effective	berkesan
 
-effectively	dengan berkesan
+888) effectively	dengan berkesan
 
-efficiency	kecekapan
+889) efficiency	kecekapan
 
-efficient	cekap
+890) efficient	cekap
 
-effort	usaha
+891) effort	usaha
 
-egg	telur
+892) egg	telur
 
-eight	lapan
+893) eight	lapan
 
-either	sama ada
+894) either	sama ada
 
-elderly	warga tua
+895) elderly	warga tua
 
-elect	memilih
+896) elect	memilih
 
-election	pilihanraya
+897) election	pilihanraya
 
-electric	elektrik
+898) electric	elektrik
 
-electricity	elektrik
+899) electricity	elektrik
 
-electronic	elektronik
+900) electronic	elektronik
 
-element	unsur
+901) element	unsur
 
-elementary	rendah
+902) elementary	rendah
 
-eliminate	menghapuskan
+903) eliminate	menghapuskan
 
-elite	elit
+904) elite	elit
 
-else	lain
+905) else	lain
 
-elsewhere	tempat lain
+906) elsewhere	tempat lain
 
-e-mail	e-mel
+907) e-mail	e-mel
 
 embrace	peluk
 
