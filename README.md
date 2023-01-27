@@ -1834,113 +1834,113 @@ a)
 
 907) e-mail	e-mel
 
-embrace	peluk
+908) embrace	peluk
 
-emerge	muncul
+909) emerge	muncul
 
-emergency	kecemasan
+910) emergency	kecemasan
 
-emission	pelepasan
+911) emission	pelepasan
 
-emotion	emosi
+912) emotion	emosi
 
-emotional	emosi
+913) emotional	emosi
 
-emphasis	penekanan
+914) emphasis	penekanan
 
-emphasize	menekankan
+915) emphasize	menekankan
 
-employ	menggaji
+916) employ	menggaji
 
-employee	pekerja
+917) employee	pekerja
 
-employer	majikan
+918) employer	majikan
 
-employment	pekerjaan
+919) employment	pekerjaan
 
-empty	kosong
+920) empty	kosong
 
-enable	membolehkan
+921) enable	membolehkan
 
-encounter	perjumpaan
+922) encounter	perjumpaan
 
-encourage	menggalakkan
+923) encourage	menggalakkan
 
-end	tamat
+924) end	tamat
 
-enemy	musuh
+925) enemy	musuh
 
-energy	tenaga
+926) energy	tenaga
 
-enforcement	penguatkuasaan
+927) enforcement	penguatkuasaan
 
-engage	terlibat
+928) engage	terlibat
 
-engine	enjin
+929) engine	enjin
 
-engineer	jurutera
+930) engineer	jurutera
 
-engineering	kejuruteraan
+931) engineering	kejuruteraan
 
-English	Inggeris
+932) English	Inggeris
 
-enhance	mempertingkatkan
+933) enhance	mempertingkatkan
 
-enjoy	nikmatilah
+934) enjoy	nikmatilah
 
-enormous	sangat besar
+935) enormous	sangat besar
 
-enough	cukup
+936) enough	cukup
 
-ensure	memastikan
+937) ensure	memastikan
 
-enter	masuk
+938) enter	masuk
 
-enterprise	perusahaan
+939) enterprise	perusahaan
 
-entertainment	hiburan
+940) entertainment	hiburan
 
-entire	keseluruhan
+941) entire	keseluruhan
 
-entirely	sepenuhnya
+942) entirely	sepenuhnya
 
-entrance	pintu masuk
+943) entrance	pintu masuk
 
-entry	kemasukan
+944) entry	kemasukan
 
-environment	persekitaran
+945) environment	persekitaran
 
-environmental	alam sekitar
+946) environmental	alam sekitar
 
-episode	episod
+947) episode	episod
 
-equal	sama rata
+948) equal	sama rata
 
-equally	sama-sama
+949) equally	sama-sama
 
-equate	samakan
+950) equate	samakan
 
-equipment	peralatan
+951) equipment	peralatan
 
-era	zaman
+952) era	zaman
 
-error	ralat
+953) error	ralat
 
-escape	melarikan diri
+954) escape	melarikan diri
 
-especially	terutamanya
+955) especially	terutamanya
 
-essay	karangan
+956) essay	karangan
 
-essential	penting
+957) essential	penting
 
-essentially	pada asasnya
+958) essentially	pada asasnya
 
-establish	menubuhkan
+959) establish	menubuhkan
 
-establishment	penubuhan
+960) establishment	penubuhan
 
-estate	harta pusaka
+961) estate	harta pusaka
 
 estimate	anggaran
 
