@@ -1942,285 +1942,285 @@ a)
 
 961) estate	harta pusaka
 
-estimate	anggaran
+962) estimate	anggaran
 
-etc	dan lain-lain
+963) etc	dan lain-lain
 
-ethics	etika
+964) ethics	etika
 
-ethnic	etnik
+965) ethnic	etnik
 
-European	Eropah
+966) European	Eropah
 
-evaluate	menilai
+967) evaluate	menilai
 
-evaluation	penilaian
+968) evaluation	penilaian
 
-even	malah
+969) even	malah
 
-evening	petang
+970) evening	petang
 
-event	peristiwa
+971) event	peristiwa
 
-eventually	akhirnya
+972) eventually	akhirnya
 
-ever	pernah
+973) ever	pernah
 
-every	setiap
+974) every	setiap
 
-everybody	semua orang
+975) everybody	semua orang
 
-everyday	setiap hari
+976) everyday	setiap hari
 
-everyone	semua orang
+977) everyone	semua orang
 
-everything	segala-galanya
+978) everything	segala-galanya
 
-everywhere	dimana – mana
+979) everywhere	dimana – mana
 
-evidence	bukti
+980) evidence	bukti
 
-evolution	evolusi
+981) evolution	evolusi
 
-evolve	berkembang
+982) evolve	berkembang
 
-exact	tepat
+983) exact	tepat
 
-exactly	betul-betul
+984) exactly	betul-betul
 
-examination	peperiksaan
+985) examination	peperiksaan
 
-examine	meneliti
+986) examine	meneliti
 
-example	contoh
+987) example	contoh
 
-exceed	melebihi
+988) exceed	melebihi
 
-excellent	cemerlang
+989) excellent	cemerlang
 
-except	kecuali
+990) except	kecuali
 
-exception	pengecualian
+991) exception	pengecualian
 
-exchange	pertukaran
+992) exchange	pertukaran
 
-excite	mengujakan
+993) excite	mengujakan
 
-exciting	mengujakan
+994) exciting	mengujakan
 
-executive	eksekutif
+995) executive	eksekutif
 
-exercise	senaman
+996) exercise	senaman
 
-exhibit	pameran
+997) exhibit	pameran
 
-exhibition	pameran
+998) exhibition	pameran
 
-exist	wujud
+999) exist	wujud
 
-existence	kewujudan
+1000) existence	kewujudan
 
-existing	sedia ada
+1001) existing	sedia ada
 
-expand	mengembang
+1002) expand	mengembang
 
-expansion	pengembangan
+1003) expansion	pengembangan
 
-expect	jangkakan
+1004) expect	jangkakan
 
-expectation	jangkaan
+1005) expectation	jangkaan
 
-expense	perbelanjaan
+1006) expense	perbelanjaan
 
-expensive	mahal
+1007) expensive	mahal
 
-experience	pengalaman
+1008) experience	pengalaman
 
-experiment	eksperimen
+1009) experiment	eksperimen
 
-expert	pakar
+1010) expert	pakar
 
-explain	terangkan
+1011) explain	terangkan
 
-explanation	penerangan
+1012) explanation	penerangan
 
-explode	meletup
+1013) explode	meletup
 
-explore	meneroka
+1014) explore	meneroka
 
-explosion	letupan
+1015) explosion	letupan
 
-expose	dedahkan
+1016) expose	dedahkan
 
-exposure	dedahan
+1017) exposure	dedahan
 
-express	ekspres
+1018) express	ekspres
 
-expression	ungkapan
+1019) expression	ungkapan
 
-extend	memanjangkan
+1020) extend	memanjangkan
 
-extension	sambungan
+1021) extension	sambungan
 
-extensive	meluas
+1022) extensive	meluas
 
-extent	takat
+1023) extent	takat
 
-external	luaran
+1024) external	luaran
 
-extra	tambahan
+1025) extra	tambahan
 
-extraordinary	luar biasa
+1026) extraordinary	luar biasa
 
-extreme	melampau
+1027) extreme	melampau
 
-extremely	amat
+1028) extremely	amat
 
-eye	mata
+1029) eye	mata
 
-fabric	kain
+1030) fabric	kain
 
-face	muka
+1031) face	muka
 
-facility	kemudahan
+1032) facility	kemudahan
 
-fact	fakta
+1033) fact	fakta
 
-factor	faktor
+1034) factor	faktor
 
-factory	kilang
+1035) factory	kilang
 
-faculty	fakulti
+1036) faculty	fakulti
 
-fade	pudar
+1037) fade	pudar
 
-fail	gagal
+1038) fail	gagal
 
-failure	kegagalan
+1039) failure	kegagalan
 
-fair	adil
+1040) fair	adil
 
-fairly	secara adil
+1041) fairly	secara adil
 
-faith	iman
+1042) faith	iman
 
-fall	jatuh
+1043) fall	jatuh
 
-familiar	biasa
+1044) familiar	biasa
 
-family	keluarga
+1045) family	keluarga
 
-famous	terkenal
+1046) famous	terkenal
 
-fan	kipas
+1047) fan	kipas
 
-fantasy	fantasi
+1048) fantasy	fantasi
 
-far	jauh
+1049) far	jauh
 
-farm	ladang
+1050) farm	ladang
 
-farmer	petani
+1051) farmer	petani
 
-fashion	fesyen
+1052) fashion	fesyen
 
-fast	cepat
+1053) fast	cepat
 
-fat	gemuk
+1054) fat	gemuk
 
-fate	nasib
+1055) fate	nasib
 
-father	ayah
+1056) father	ayah
 
-fault	kesalahan
+1057) fault	kesalahan
 
-favor	nikmat
+1058) favor	nikmat
 
-favorite	kegemaran
+1059) favorite	kegemaran
 
-fear	rasa takut
+1060) fear	rasa takut
 
-feature	ciri
+1061) feature	ciri
 
-federal	persekutuan
+1062) federal	persekutuan
 
-fee	Bayaran
+1063) fee	Bayaran
 
-feed	suapan
+1064) feed	suapan
 
-feel	rasa
+1065) feel	rasa
 
-feeling	perasaan
+1066) feeling	perasaan
 
-feet	kaki
+1067) feet	kaki
 
-fell	jatuh
+1068) fell	jatuh
 
-fellow	sesama
+1069) fellow	sesama
 
-felt	terasa
+1070) felt	terasa
 
-female	perempuan
+1071) female	perempuan
 
-fence	pagar
+1072) fence	pagar
 
-few	beberapa
+1073) few	beberapa
 
-fewer	lebih sedikit
+1074) fewer	lebih sedikit
 
-fiber	serat
+1075) fiber	serat
 
-fiction	fiksyen
+1076) fiction	fiksyen
 
-field	padang
+1077) field	padang
 
-fifteen	lima belas
+1078) fifteen	lima belas
 
-fifth	kelima
+1079) fifth	kelima
 
-fifty	lima puluh
+1080) fifty	lima puluh
 
-fig	ara
+1081) fig	ara
 
-fight	bergaduh
+1082) fight	bergaduh
 
-fighter	pejuang
+1083) fighter	pejuang
 
-fighting	bergaduh
+1084) fighting	bergaduh
 
-figure	angka
+1085) figure	angka
 
-file	fail
+1086) file	fail
 
-fill	isi
+1087) fill	isi
 
-film	filem
+1088) film	filem
 
-final	muktamad
+1089) final	muktamad
 
-finally	akhirnya
+1090) finally	akhirnya
 
-finance	kewangan
+1091) finance	kewangan
 
-financial	kewangan
+1092) financial	kewangan
 
-find	cari
+1093) find	cari
 
-finding	mencari
+1094) finding	mencari
 
-fine	baiklah
+1095) fine	baiklah
 
-finger	jari
+1096) finger	jari
 
-finish	selesai
+1097) finish	selesai
 
-fire	kebakaran
+1098) fire	kebakaran
 
-firm	tegas
+1099) firm	tegas
 
-first	pertama
+1100) first	pertama
 
-fish	ikan
+1101) fish	ikan
 
 fishing	memancing
 
