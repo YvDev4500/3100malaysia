@@ -2686,6 +2686,8 @@ honor	penghormatan
 
 hope	harapan
 
+hoping  berharap
+
 horizon	ufuk
 
 horror	seram
