@@ -1696,7 +1696,7 @@ a)
 
 838) doubt	keraguan
 
-839) down	turun
+839) down	 -  turun/bawah  -  下
 
 840) downtown	pusat bandar
 
@@ -2222,165 +2222,165 @@ a)
 
 1101) fish	ikan
 
-fishing	memancing
+1102) fishing	memancing
 
-fit	sesuai
+1103) fit	sesuai
 
-fitness	kecergasan
+1104) fitness	kecergasan
 
-five	lima
+1105) five	lima
 
-fix	menetapkan
+1106) fix	menetapkan
 
-flag	bendera
+1107) flag	bendera
 
-flame	nyala api
+1108) flame	nyala api
 
-flat	rata
+1109) flat	rata
 
-flavor	rasa
+1110) flavor	rasa
 
-flee	melarikan diri
+1111) flee	melarikan diri
 
-flesh	daging
+1112) flesh	daging
 
-flight	penerbangan
+1113) flight	penerbangan
 
-float	terapung
+1114) float	terapung
 
-floor	lantai
+1115) floor	lantai
 
-flow	aliran
+1116) flow	aliran
 
-flower	bunga
+1117) flower	bunga
 
-fly	terbang
+1118) fly	terbang
 
-focus	fokus
+1119) focus	fokus
 
-folk	rakyat
+1120) folk	rakyat
 
-follow	ikut
+1121) follow	ikut
 
-following	mengikuti
+1122) following	mengikuti
 
-food	makanan
+1123) food	makanan
 
-foot	kaki
+1124) foot	kaki
 
-football	bola sepak
+1125) football	bola sepak
 
-for	untuk
+1126) for	untuk
 
-force	memaksa
+1127) force	memaksa
 
-foreign	asing
+1128) foreign	asing
 
-forest	hutan
+1129) forest	hutan
 
-forever	selamanya
+1130) forever	selamanya
 
-forget	lupa
+1131) forget	lupa
 
-form	bentuk
+1132) form	bentuk
 
-formal	rasmi
+1133) formal	rasmi
 
-formation	pembentukan
+1134) formation	pembentukan
 
-former	bekas
+1135) former	bekas
 
-formula	formula
+1136) formula	formula
 
-forth	seterusnya
+1137) forth	seterusnya
 
-fortune	rezeki
+1138) fortune	rezeki
 
-forward	ke hadapan
+1139) forward	ke hadapan
 
-found	dijumpai
+1140) found	dijumpai
 
-foundation	asas
+1141) foundation	asas
 
-founder	pengasas
+1142) founder	pengasas
 
-four	empat
+1143) four	empat
 
-fourth	keempat
+1144) fourth	keempat
 
-fraction	pecahan
+1145) fraction	pecahan
 
-frame	bingkai
+1146) frame	bingkai
 
-framework	rangka kerja
+1147) framework	rangka kerja
 
-free	percuma
+1148) free	percuma
 
-freedom	kebebasan
+1149) freedom	kebebasan
 
-freeze	membekukan
+1150) freeze	membekukan
 
-French	Perancis
+1151) French	Perancis
 
-frequency	kekerapan
+1152) frequency	kekerapan
 
-frequent	kerap
+1153) frequent	kerap
 
-frequently	kerap
+1153) frequently	kerap
 
-fresh	segar
+1154) fresh	segar
 
-friend	kawan
+1155) friend	kawan
 
-friendly	mesra
+1156) friendly	mesra
 
-friendship	persahabatan
+1157) friendship	persahabatan
 
-from	daripada
+1158) from	daripada
 
-front	depan
+1159) front	depan
 
-fruit	buah-buahan
+1160) fruit	buah-buahan
 
-frustration	kekecewaan
+1161) frustration	kekecewaan
 
-fuel	bahan api
+1162) fuel	bahan api
 
-full	penuh
+1163) full	penuh
 
-fully	sepenuhnya
+1164) fully	sepenuhnya
 
-fun	seronok
+1165) fun	seronok
 
-function	fungsi
+1166) function	fungsi
 
-fund	dana
+1167) fund	dana
 
-fundamental	asas
+1168) fundamental	asas
 
-funding	pembiayaan
+1169) funding	pembiayaan
 
-funeral	pengebumian
+1170) funeral	pengebumian
 
-funny	kelakar
+1171) funny	kelakar
 
-furniture	perabot
+1172) furniture	perabot
 
-furthermore	tambahanpula
+1173) furthermore	tambahanpula
 
-future	masa hadapan
+1174) future	masa hadapan
 
-gain	keuntungan
+1175) gain	keuntungan
 
-galaxy	galaksi
+1176) galaxy	galaksi
 
-gallery	galeri
+1177) gallery	galeri
 
-game	permainan
+1178) game	permainan
 
-gang	geng
+1179) gang	geng
 
-gap	jurang
+1180) gap	jurang
 
 garage	garaj
 
